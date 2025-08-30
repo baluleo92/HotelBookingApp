@@ -1,0 +1,3839 @@
+
+{
+  "paging" : 41,
+  "items" : [
+    {
+      "pin" : {
+        "location" : {
+          "lon" : 454.64999999999998,
+          "lat" : 45.698799999999999
+        }
+      },
+      "thumbnail" : [
+        "036f8ed9-a967-4e7c-bccd-5a3b10599e39\/nl-asset-dev-036f8ed9-a967-4e7c-bccd-5a3b10599e39-1746680862806-0-43861069.48979901.png",
+        "036f8ed9-a967-4e7c-bccd-5a3b10599e39\/nl-asset-dev-036f8ed9-a967-4e7c-bccd-5a3b10599e39-1746680877912-0-96633450.2870378.png"
+      ],
+      "title" : "Water Resort",
+      "besthotel" : false,
+      "country" : "Algeria",
+      "livemode" : true,
+      "complementary" : [
+        {
+          "type" : "check",
+          "key" : "dinner",
+          "displayName" : "Dinner"
+        }
+      ],
+      "others" : [
+        {
+          "type" : "check",
+          "key" : "free_cancellation_policy",
+          "displayName" : "Free cancellation policy"
+        }
+      ],
+      "conferenceCenter" : [
+        {
+          "type" : "check",
+          "key" : "cic",
+          "displayName" : "CIC"
+        }
+      ],
+      "currency" : {
+        "USD" : 74.420000000000002,
+        "EUR" : 66.629999999999995,
+        "DZD" : 10000
+      },
+      "active" : true,
+      "hotel_slug" : "water-resort",
+      "activestatus" : {
+        "reason" : "Hotel details verified"
+      },
+      "city" : "Alger",
+      "moreInfo" : {
+        "cancelPolicy" : "",
+        "rooms" : [
+          {
+            "noRoomsAvailable" : 100,
+            "thumbnail" : [
+              "036f8ed9-a967-4e7c-bccd-5a3b10599e39\/nl-asset-dev-036f8ed9-a967-4e7c-bccd-5a3b10599e39-1746681050499-0-32542375.783237524.jpeg",
+              "036f8ed9-a967-4e7c-bccd-5a3b10599e39\/nl-asset-dev-036f8ed9-a967-4e7c-bccd-5a3b10599e39-1746681056099-0-27671486.736675102.jpeg"
+            ],
+            "sharing" : [
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "7da12501-da90-4ad2-99ca-903d25590a9e",
+                "check" : true,
+                "currency" : {
+                  "USD" : 74.420000000000002,
+                  "EUR" : 66.629999999999995,
+                  "DZD" : 10000
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 1,
+                "exchange_price" : {
+                  "USD" : 74.420000000000002,
+                  "EUR" : 66.629999999999995,
+                  "DZD" : 10000
+                },
+                "noPerson" : 1,
+                "extraBedPrice" : 0,
+                "price" : 74.420000000000002,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "6.00",
+                  "USD" : "6.70",
+                  "DZD" : "900.00"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              },
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "ed4f5da3-d846-49fd-a974-485accfabfde",
+                "check" : true,
+                "currency" : {
+                  "USD" : 148.84,
+                  "EUR" : 133.25999999999999,
+                  "DZD" : 20000
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 1,
+                "exchange_price" : {
+                  "USD" : 148.84,
+                  "EUR" : 133.25999999999999,
+                  "DZD" : 20000
+                },
+                "noPerson" : 2,
+                "extraBedPrice" : 0,
+                "price" : 148.84,
+                "selectcurrency" : "DZD",
+                "noAdult" : 2,
+                "taxcurrency" : {
+                  "EUR" : "11.99",
+                  "USD" : "13.40",
+                  "DZD" : "1800.00"
+                },
+                "noInfant" : 1,
+                "noExtraSharingBed" : 0
+              },
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "84f089e5-ea58-4cb4-8b73-aa37a6ba08ba",
+                "check" : true,
+                "currency" : {
+                  "USD" : 223.25999999999999,
+                  "EUR" : 199.88999999999999,
+                  "DZD" : 30000
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 1,
+                "exchange_price" : {
+                  "USD" : 223.25999999999999,
+                  "EUR" : 199.88999999999999,
+                  "DZD" : 30000
+                },
+                "noPerson" : 3,
+                "extraBedPrice" : 0,
+                "price" : 223.25999999999999,
+                "selectcurrency" : "DZD",
+                "noAdult" : 3,
+                "taxcurrency" : {
+                  "EUR" : "17.99",
+                  "USD" : "20.09",
+                  "DZD" : "2700.00"
+                },
+                "noInfant" : 1,
+                "noExtraSharingBed" : 0
+              }
+            ],
+            "room_type_slug" : "royal_suite",
+            "category" : "Family",
+            "title" : "Royal Suite",
+            "numberOfRooms" : 100,
+            "roomId" : "6e565d20-91b4-48fa-bb16-2366e044778c",
+            "numberOfRoomsRegister" : 100,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "24_7_checkin",
+                "displayName" : "24\/7 Checkin"
+              },
+              {
+                "type" : "check",
+                "key" : "ac",
+                "displayName" : "AC"
+              },
+              {
+                "type" : "check",
+                "key" : "airport_shuttle",
+                "displayName" : "Airport Shuttle"
+              },
+              {
+                "type" : "check",
+                "key" : "balcony__terrace",
+                "displayName" : "Balcony\/ Terrace"
+              },
+              {
+                "type" : "check",
+                "key" : "banquet_hall",
+                "displayName" : "Banquet Hall"
+              },
+              {
+                "type" : "check",
+                "key" : "bar",
+                "displayName" : "Bar"
+              }
+            ],
+            "threshold" : true
+          }
+        ],
+        "notes" : "<p>Free cancelation<\/p>",
+        "policies" : "<p>Best palce to visit in summer<\/p>",
+        "description" : "<p>Come And Enjoy<\/p>"
+      },
+      "bestdeal" : false,
+      "tag" : [
+        {
+          "type" : "check",
+          "key" : "villa",
+          "displayName" : "Villa"
+        }
+      ],
+      "favourite" : {
+        "favourite_hotel_id" : "123191fd-3b1a-4707-a177-dd582efc997e"
+      },
+      "amenities" : [
+        {
+          "type" : "check",
+          "key" : "24_7_checkin",
+          "displayName" : "24\/7 Checkin"
+        },
+        {
+          "type" : "check",
+          "key" : "ac",
+          "displayName" : "AC"
+        },
+        {
+          "type" : "check",
+          "key" : "airport_shuttle",
+          "displayName" : "Airport Shuttle"
+        },
+        {
+          "type" : "check",
+          "key" : "balcony__terrace",
+          "displayName" : "Balcony\/ Terrace"
+        },
+        {
+          "type" : "check",
+          "key" : "banquet_hall",
+          "displayName" : "Banquet Hall"
+        },
+        {
+          "type" : "check",
+          "key" : "bar",
+          "displayName" : "Bar"
+        }
+      ],
+      "id" : "ca46895c-6815-4f25-8159-2621053f79d0",
+      "roomInfo" : "Royal Suite",
+      "country_slug" : "algeria",
+      "roomInfoSlug" : "royal_suite",
+      "nearby" : [
+        {
+          "type" : "check",
+          "key" : "beach",
+          "displayName" : "Beach"
+        },
+        {
+          "type" : "check",
+          "key" : "mountain",
+          "displayName" : "Mountain"
+        }
+      ],
+      "noRoomsAvailable" : 100,
+      "refund" : {
+        "hours" : "24 hrs",
+        "percentage" : 10,
+        "isRefund" : true
+      },
+      "certified" : false,
+      "city_slug" : "algeria-alger",
+      "price" : 74.420000000000002,
+      "rating" : "5 Star",
+      "address" : "Private property city",
+      "exchange_price" : {
+        "USD" : 74.420000000000002,
+        "EUR" : 66.629999999999995,
+        "DZD" : 10000
+      }
+    },
+    {
+      "pin" : {
+        "location" : {
+          "lon" : 0,
+          "lat" : 0
+        }
+      },
+      "thumbnail" : [
+        "534d278c-5928-43be-aa77-d680f2e8d97b\/nl-asset-dev-534d278c-5928-43be-aa77-d680f2e8d97b-1741602445683-0-16523973.855404966.png",
+        "534d278c-5928-43be-aa77-d680f2e8d97b\/nl-asset-dev-534d278c-5928-43be-aa77-d680f2e8d97b-1741602476010-0-59148916.22825307.png"
+      ],
+      "title" : "Albequrque",
+      "besthotel" : false,
+      "country" : "Algeria",
+      "livemode" : true,
+      "complementary" : [
+        {
+          "type" : "check",
+          "key" : "breakfast",
+          "displayName" : "Breakfast"
+        }
+      ],
+      "others" : [
+        {
+          "type" : "check",
+          "key" : "free_cancellation_policy",
+          "displayName" : "Free cancellation policy"
+        }
+      ],
+      "conferenceCenter" : [
+
+      ],
+      "currency" : {
+        "USD" : 93.030000000000001,
+        "EUR" : 83.290000000000006,
+        "DZD" : 12500
+      },
+      "active" : true,
+      "hotel_slug" : "albequrque",
+      "activestatus" : {
+        "reason" : "Hotel details verified"
+      },
+      "city" : "Alger",
+      "moreInfo" : {
+        "cancelPolicy" : "",
+        "rooms" : [
+          {
+            "noRoomsAvailable" : 70,
+            "thumbnail" : [
+              "534d278c-5928-43be-aa77-d680f2e8d97b\/nl-asset-dev-534d278c-5928-43be-aa77-d680f2e8d97b-1741602932144-0-39222218.37145659.jpeg",
+              "534d278c-5928-43be-aa77-d680f2e8d97b\/nl-asset-dev-534d278c-5928-43be-aa77-d680f2e8d97b-1741602943388-0-76452529.78181155.jpeg"
+            ],
+            "sharing" : [
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "9154616a-5f74-4ec8-91ab-8aa2bd09901d",
+                "check" : true,
+                "currency" : {
+                  "USD" : 93.030000000000001,
+                  "EUR" : 83.290000000000006,
+                  "DZD" : 12500
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 1,
+                "exchange_price" : {
+                  "USD" : 93.030000000000001,
+                  "EUR" : 83.290000000000006,
+                  "DZD" : 12500
+                },
+                "noPerson" : 1,
+                "extraBedPrice" : 0,
+                "price" : 93.030000000000001,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "7.50",
+                  "USD" : "8.37",
+                  "DZD" : "1125.00"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              },
+              {
+                "noExtraBed" : 1,
+                "sharingId" : "446f07cd-7bbe-443d-bd75-67104d1bf1b5",
+                "check" : true,
+                "currency" : {
+                  "USD" : 111.63,
+                  "EUR" : 99.939999999999998,
+                  "DZD" : 15000
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 2,
+                "exchange_price" : {
+                  "USD" : 111.63,
+                  "EUR" : 99.939999999999998,
+                  "DZD" : 15000
+                },
+                "noPerson" : 2,
+                "extraBedPrice" : 0,
+                "price" : 111.63,
+                "selectcurrency" : "DZD",
+                "noAdult" : 2,
+                "taxcurrency" : {
+                  "EUR" : "8.99",
+                  "USD" : "10.05",
+                  "DZD" : "1350.00"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              },
+              {
+                "noExtraBed" : 1,
+                "sharingId" : "3ddb210e-7902-4592-83b3-8e47f7ded58b",
+                "check" : true,
+                "currency" : {
+                  "USD" : 133.96000000000001,
+                  "EUR" : 119.93000000000001,
+                  "DZD" : 18000
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 2,
+                "exchange_price" : {
+                  "USD" : 133.96000000000001,
+                  "EUR" : 119.93000000000001,
+                  "DZD" : 18000
+                },
+                "noPerson" : 3,
+                "extraBedPrice" : 0,
+                "price" : 133.96000000000001,
+                "selectcurrency" : "DZD",
+                "noAdult" : 3,
+                "taxcurrency" : {
+                  "EUR" : "10.79",
+                  "USD" : "12.06",
+                  "DZD" : "1620.00"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              }
+            ],
+            "room_type_slug" : "premium_room",
+            "category" : "Family",
+            "title" : "Premium room",
+            "numberOfRooms" : 70,
+            "roomId" : "4435a282-3bd2-4565-b89d-6c3ba9ee72d7",
+            "numberOfRoomsRegister" : 75,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "24_7_checkin",
+                "displayName" : "24\/7 Checkin"
+              },
+              {
+                "type" : "check",
+                "key" : "ac",
+                "displayName" : "AC"
+              },
+              {
+                "type" : "check",
+                "key" : "airport_shuttle",
+                "displayName" : "Airport Shuttle"
+              },
+              {
+                "type" : "check",
+                "key" : "balcony__terrace",
+                "displayName" : "Balcony\/ Terrace"
+              },
+              {
+                "type" : "check",
+                "key" : "banquet_hall",
+                "displayName" : "Banquet Hall"
+              },
+              {
+                "type" : "check",
+                "key" : "bar",
+                "displayName" : "Bar"
+              },
+              {
+                "type" : "check",
+                "key" : "bath_tub",
+                "displayName" : "Bath tub"
+              },
+              {
+                "type" : "check",
+                "key" : "caf_",
+                "displayName" : "Café"
+              },
+              {
+                "type" : "check",
+                "key" : "conference_room",
+                "displayName" : "Conference Room"
+              },
+              {
+                "type" : "check",
+                "key" : "facilities_for_guests_with_disablities",
+                "displayName" : "Facilities for Guests with Disablities"
+              },
+              {
+                "type" : "check",
+                "key" : "free_wi_fi",
+                "displayName" : "Free Wi-fi"
+              },
+              {
+                "type" : "check",
+                "key" : "indoor_games",
+                "displayName" : "Indoor Games"
+              },
+              {
+                "type" : "check",
+                "key" : "laundry_services__washing_machine",
+                "displayName" : "Laundry Services"
+              },
+              {
+                "type" : "check",
+                "key" : "power_backup",
+                "displayName" : "Power Backup"
+              },
+              {
+                "type" : "check",
+                "key" : "room_service",
+                "displayName" : "Room Service"
+              },
+              {
+                "type" : "check",
+                "key" : "spa",
+                "displayName" : "Spa"
+              }
+            ],
+            "threshold" : false
+          },
+          {
+            "noRoomsAvailable" : 8,
+            "thumbnail" : [
+              "534d278c-5928-43be-aa77-d680f2e8d97b\/nl-asset-dev-534d278c-5928-43be-aa77-d680f2e8d97b-1741851196759-0-33251131.58742644.jpeg",
+              "534d278c-5928-43be-aa77-d680f2e8d97b\/nl-asset-dev-534d278c-5928-43be-aa77-d680f2e8d97b-1741851196762-1-45782730.04254206.jpeg"
+            ],
+            "sharing" : [
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "460cec77-b541-41ec-809e-52eb858b7038",
+                "check" : true,
+                "currency" : {
+                  "USD" : 148.84,
+                  "EUR" : 133.25999999999999,
+                  "DZD" : 20000
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 2,
+                "exchange_price" : {
+                  "USD" : 148.84,
+                  "EUR" : 133.25999999999999,
+                  "DZD" : 20000
+                },
+                "noPerson" : 2,
+                "extraBedPrice" : 200,
+                "price" : 148.84,
+                "extraBedExchangePrice" : {
+                  "USD" : 1.4884249397238134,
+                  "EUR" : 1.3300000000000001,
+                  "DZD" : 200
+                },
+                "selectcurrency" : "DZD",
+                "noAdult" : 2,
+                "taxcurrency" : {
+                  "EUR" : 11.99,
+                  "USD" : 13.4,
+                  "DZD" : 1800
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 1
+              },
+              {
+                "noExtraBed" : 2,
+                "sharingId" : "5a8731e1-4128-40b1-b65e-c340ff8983c9",
+                "check" : true,
+                "currency" : {
+                  "USD" : 186.05000000000001,
+                  "EUR" : 166.56999999999999,
+                  "DZD" : 25000
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 2,
+                "exchange_price" : {
+                  "USD" : 186.05000000000001,
+                  "EUR" : 166.56999999999999,
+                  "DZD" : 25000
+                },
+                "noPerson" : 3,
+                "extraBedPrice" : 0,
+                "price" : 186.05000000000001,
+                "selectcurrency" : "DZD",
+                "noAdult" : 3,
+                "taxcurrency" : {
+                  "EUR" : 14.99,
+                  "USD" : 16.739999999999998,
+                  "DZD" : 2250
+                },
+                "noInfant" : 1,
+                "noExtraSharingBed" : 0
+              }
+            ],
+            "room_type_slug" : "family_suite",
+            "category" : "Family",
+            "title" : "Family Suite",
+            "numberOfRooms" : 8,
+            "roomId" : "6026c3f2-e784-48b7-af4d-e6d2379ad8aa",
+            "numberOfRoomsRegister" : 10,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "ac",
+                "displayName" : "AC"
+              },
+              {
+                "type" : "check",
+                "key" : "barbeque",
+                "displayName" : "Barbeque"
+              },
+              {
+                "type" : "check",
+                "key" : "bath_tub",
+                "displayName" : "Bath tub"
+              }
+            ],
+            "threshold" : true
+          }
+        ],
+        "notes" : "<p>Free Breakfast<\/p>",
+        "policies" : "<p>Pets not allowed<\/p>",
+        "description" : "<p>Friendly environment<\/p>"
+      },
+      "bestdeal" : false,
+      "tag" : [
+        {
+          "type" : "check",
+          "key" : "hotel",
+          "displayName" : "Hotel"
+        }
+      ],
+      "amenities" : [
+        {
+          "type" : "check",
+          "key" : "24_7_checkin",
+          "displayName" : "24\/7 Checkin"
+        },
+        {
+          "type" : "check",
+          "key" : "ac",
+          "displayName" : "AC"
+        },
+        {
+          "type" : "check",
+          "key" : "airport_shuttle",
+          "displayName" : "Airport Shuttle"
+        },
+        {
+          "type" : "check",
+          "key" : "balcony__terrace",
+          "displayName" : "Balcony\/ Terrace"
+        },
+        {
+          "type" : "check",
+          "key" : "banquet_hall",
+          "displayName" : "Banquet Hall"
+        },
+        {
+          "type" : "check",
+          "key" : "bar",
+          "displayName" : "Bar"
+        },
+        {
+          "type" : "check",
+          "key" : "bath_tub",
+          "displayName" : "Bath tub"
+        },
+        {
+          "type" : "check",
+          "key" : "caf_",
+          "displayName" : "Café"
+        },
+        {
+          "type" : "check",
+          "key" : "conference_room",
+          "displayName" : "Conference Room"
+        },
+        {
+          "type" : "check",
+          "key" : "facilities_for_guests_with_disablities",
+          "displayName" : "Facilities for Guests with Disablities"
+        },
+        {
+          "type" : "check",
+          "key" : "free_wi_fi",
+          "displayName" : "Free Wi-fi"
+        },
+        {
+          "type" : "check",
+          "key" : "indoor_games",
+          "displayName" : "Indoor Games"
+        },
+        {
+          "type" : "check",
+          "key" : "laundry_services__washing_machine",
+          "displayName" : "Laundry Services"
+        },
+        {
+          "type" : "check",
+          "key" : "power_backup",
+          "displayName" : "Power Backup"
+        },
+        {
+          "type" : "check",
+          "key" : "room_service",
+          "displayName" : "Room Service"
+        },
+        {
+          "type" : "check",
+          "key" : "spa",
+          "displayName" : "Spa"
+        },
+        {
+          "type" : "check",
+          "key" : "barbeque",
+          "displayName" : "Barbeque"
+        }
+      ],
+      "id" : "f2af107c-4fee-445b-b187-3aeeae65494e",
+      "roomInfo" : "Premium room",
+      "country_slug" : "algeria",
+      "roomInfoSlug" : "premium_room",
+      "nearby" : [
+        {
+          "type" : "check",
+          "key" : "airport",
+          "displayName" : "Airport"
+        },
+        {
+          "type" : "check",
+          "key" : "city_center",
+          "displayName" : "City center (urban)"
+        },
+        {
+          "type" : "check",
+          "key" : "sahara",
+          "displayName" : "Sahara"
+        },
+        {
+          "type" : "check",
+          "key" : "spa_resort",
+          "displayName" : "Spa resort"
+        },
+        {
+          "type" : "check",
+          "key" : "transport_station",
+          "displayName" : "Transport station (Metro & Train)"
+        }
+      ],
+      "noRoomsAvailable" : 78,
+      "refund" : {
+        "hours" : "24 hrs",
+        "percentage" : 10,
+        "isRefund" : true
+      },
+      "certified" : false,
+      "city_slug" : "algeria-alger",
+      "price" : 93.030000000000001,
+      "rating" : "5 Star",
+      "address" : "12, 2nd Avenue, Alger",
+      "exchange_price" : {
+        "USD" : 93.030000000000001,
+        "EUR" : 83.290000000000006,
+        "DZD" : 12500
+      }
+    },
+    {
+      "pin" : {
+        "location" : {
+          "lon" : 79.793199999999999,
+          "lat" : 11.860900000000001
+        }
+      },
+      "thumbnail" : [
+        "ec40bf8b-4dec-40c2-9cec-618ce9d91d7a\/nl-asset-dev-ec40bf8b-4dec-40c2-9cec-618ce9d91d7a-1691661495959-0-58806985.0045527.png",
+        "ec40bf8b-4dec-40c2-9cec-618ce9d91d7a\/nl-asset-dev-ec40bf8b-4dec-40c2-9cec-618ce9d91d7a-1691661609445-0-40157949.32842651.png"
+      ],
+      "title" : "Hotel Uzumaki",
+      "besthotel" : false,
+      "country" : "Algeria",
+      "livemode" : true,
+      "complementary" : [
+        {
+          "type" : "check",
+          "key" : "breakfast",
+          "displayName" : "Breakfast"
+        }
+      ],
+      "others" : [
+        {
+          "type" : "check",
+          "key" : "couple_friendly",
+          "displayName" : "Couple friendly"
+        },
+        {
+          "type" : "check",
+          "key" : "free_cancellation_policy",
+          "displayName" : "Free cancellation policy"
+        },
+        {
+          "type" : "check",
+          "key" : "pay_at_hotel",
+          "displayName" : "Pay at hotel"
+        }
+      ],
+      "conferenceCenter" : [
+
+      ],
+      "currency" : {
+        "USD" : 1.72,
+        "EUR" : 1.54,
+        "DZD" : 231
+      },
+      "active" : true,
+      "hotel_slug" : "uzumaki-1",
+      "activestatus" : {
+        "activeStatus" : {
+          "hotel_status_id" : "96cfaad4-749a-45ca-a0a2-d7fa0796deda"
+        },
+        "reason" : "Technical issues has been resolved"
+      },
+      "city" : "Alger",
+      "moreInfo" : {
+        "cancelPolicy" : "",
+        "rooms" : [
+          {
+            "noRoomsAvailable" : 15,
+            "thumbnail" : [
+              "ec40bf8b-4dec-40c2-9cec-618ce9d91d7a\/nl-asset-dev-ec40bf8b-4dec-40c2-9cec-618ce9d91d7a-1691661790837-0-60146237.464900486.jpeg",
+              "ec40bf8b-4dec-40c2-9cec-618ce9d91d7a\/nl-asset-dev-ec40bf8b-4dec-40c2-9cec-618ce9d91d7a-1691661790840-1-81115682.87817708.jpeg",
+              "ec40bf8b-4dec-40c2-9cec-618ce9d91d7a\/nl-asset-dev-ec40bf8b-4dec-40c2-9cec-618ce9d91d7a-1691661790906-2-81225519.18985802.jpeg"
+            ],
+            "sharing" : [
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "3ea2c27d-e8e4-4945-b631-3488f25a0dd3",
+                "check" : true,
+                "currency" : {
+                  "USD" : 18.609999999999999,
+                  "EUR" : 16.66,
+                  "DZD" : 2500
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 1,
+                "exchange_price" : {
+                  "USD" : 18.609999999999999,
+                  "EUR" : 16.66,
+                  "DZD" : 2500
+                },
+                "noPerson" : 1,
+                "extraBedPrice" : 21,
+                "price" : 18.609999999999999,
+                "extraBedExchangePrice" : {
+                  "USD" : 0.15628461867100041,
+                  "EUR" : 0.14000000000000001,
+                  "DZD" : 21
+                },
+                "selectcurrency" : "DZD",
+                "noAdult" : 2,
+                "taxcurrency" : {
+                  "EUR" : "1.50",
+                  "USD" : "1.67",
+                  "DZD" : "225.00"
+                },
+                "noInfant" : 1,
+                "noExtraSharingBed" : 5
+              },
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "1235b0f3-01ec-40b9-b3bf-9d27f8cfb6a1",
+                "check" : true,
+                "currency" : {
+                  "USD" : 20.84,
+                  "EUR" : 18.66,
+                  "DZD" : 2800
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 1,
+                "exchange_price" : {
+                  "USD" : 20.84,
+                  "EUR" : 18.66,
+                  "DZD" : 2800
+                },
+                "noPerson" : 2,
+                "extraBedPrice" : 23,
+                "price" : 20.84,
+                "extraBedExchangePrice" : {
+                  "USD" : 0.17116886806823856,
+                  "EUR" : 0.14999999999999999,
+                  "DZD" : 23
+                },
+                "selectcurrency" : "DZD",
+                "noAdult" : 2,
+                "taxcurrency" : {
+                  "EUR" : "1.68",
+                  "USD" : "1.88",
+                  "DZD" : "252.00"
+                },
+                "noInfant" : 1,
+                "noExtraSharingBed" : 5
+              }
+            ],
+            "room_type_slug" : "full_sea_view_one_bedroom_suite",
+            "category" : "Solo",
+            "title" : "Full Sea View One Bedroom Suite",
+            "numberOfRooms" : 15,
+            "roomId" : "70bc433d-e49d-4173-853a-6936dba26d4b",
+            "numberOfRoomsRegister" : 20,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "room_service",
+                "displayName" : "Room Service"
+              },
+              {
+                "type" : "check",
+                "key" : "telephone",
+                "displayName" : "Telephone"
+              },
+              {
+                "type" : "check",
+                "key" : "free_wi_fi",
+                "displayName" : "Free Wi-fi"
+              },
+              {
+                "type" : "check",
+                "key" : "living_room",
+                "displayName" : "Living room"
+              },
+              {
+                "type" : "check",
+                "key" : "power_backup",
+                "displayName" : "Power Backup"
+              }
+            ],
+            "threshold" : true
+          },
+          {
+            "noRoomsAvailable" : 20,
+            "thumbnail" : [
+              "ec40bf8b-4dec-40c2-9cec-618ce9d91d7a\/nl-asset-dev-ec40bf8b-4dec-40c2-9cec-618ce9d91d7a-1700564306652-0-32966038.259251524.jpeg",
+              "ec40bf8b-4dec-40c2-9cec-618ce9d91d7a\/nl-asset-dev-ec40bf8b-4dec-40c2-9cec-618ce9d91d7a-1700564311083-0-47081261.033536285.jpeg"
+            ],
+            "sharing" : [
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "65df3199-2567-4db1-800e-1f85452d6bdd",
+                "check" : true,
+                "currency" : {
+                  "USD" : 1.72,
+                  "EUR" : 1.54,
+                  "DZD" : 231
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 1.72,
+                  "EUR" : 1.54,
+                  "DZD" : 231
+                },
+                "noPerson" : 1,
+                "extraBedPrice" : 0,
+                "price" : 1.72,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "0.14",
+                  "USD" : "0.15",
+                  "DZD" : "20.79"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              }
+            ],
+            "room_type_slug" : "double_standard",
+            "category" : "Group",
+            "title" : "Double standard",
+            "numberOfRooms" : 20,
+            "roomId" : "b42923f8-ca12-4b57-8737-597ca062f6ad",
+            "numberOfRoomsRegister" : 25,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "airport_shuttle",
+                "displayName" : "Airport Shuttle"
+              },
+              {
+                "type" : "check",
+                "key" : "kitchen",
+                "displayName" : "Kitchen"
+              }
+            ],
+            "threshold" : false
+          },
+          {
+            "noRoomsAvailable" : 15,
+            "thumbnail" : [
+              "ec40bf8b-4dec-40c2-9cec-618ce9d91d7a\/nl-asset-dev-ec40bf8b-4dec-40c2-9cec-618ce9d91d7a-1701865080377-0-57380214.646585196.jpeg",
+              "ec40bf8b-4dec-40c2-9cec-618ce9d91d7a\/nl-asset-dev-ec40bf8b-4dec-40c2-9cec-618ce9d91d7a-1701865080481-1-17756165.697352212.jpeg"
+            ],
+            "sharing" : [
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "8a9c19f6-49b9-4753-80de-478e1942bfb3",
+                "check" : true,
+                "currency" : {
+                  "USD" : 111.63,
+                  "EUR" : 99.939999999999998,
+                  "DZD" : 15000
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 111.63,
+                  "EUR" : 99.939999999999998,
+                  "DZD" : 15000
+                },
+                "noPerson" : 1,
+                "extraBedPrice" : 0,
+                "price" : 111.63,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "8.99",
+                  "USD" : "10.05",
+                  "DZD" : "1350.00"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              }
+            ],
+            "room_type_slug" : "royal_suite",
+            "category" : "Family",
+            "title" : "Royal Suite",
+            "numberOfRooms" : 15,
+            "roomId" : "dbeac32d-2d8b-4ea6-86a2-6cb6d48f0a31",
+            "numberOfRoomsRegister" : 25,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "airport_shuttle",
+                "displayName" : "Airport Shuttle"
+              },
+              {
+                "type" : "check",
+                "key" : "telephone",
+                "displayName" : "Telephone"
+              },
+              {
+                "type" : "check",
+                "key" : "free_wi_fi",
+                "displayName" : "Free Wi-fi"
+              },
+              {
+                "type" : "check",
+                "key" : "kitchen",
+                "displayName" : "Kitchen"
+              }
+            ],
+            "threshold" : false
+          }
+        ],
+        "notes" : "<p>Special offers<\/p>",
+        "policies" : "<p>Property policies<\/p>",
+        "description" : "<p>Property Description<\/p>"
+      },
+      "bestdeal" : false,
+      "tag" : [
+        {
+          "type" : "check",
+          "key" : "hotel",
+          "displayName" : "Hotel"
+        }
+      ],
+      "amenities" : [
+        {
+          "type" : "check",
+          "key" : "room_service",
+          "displayName" : "Room Service"
+        },
+        {
+          "type" : "check",
+          "key" : "telephone",
+          "displayName" : "Telephone"
+        },
+        {
+          "type" : "check",
+          "key" : "free_wi_fi",
+          "displayName" : "Free Wi-fi"
+        },
+        {
+          "type" : "check",
+          "key" : "living_room",
+          "displayName" : "Living room"
+        },
+        {
+          "type" : "check",
+          "key" : "power_backup",
+          "displayName" : "Power Backup"
+        },
+        {
+          "type" : "check",
+          "key" : "airport_shuttle",
+          "displayName" : "Airport Shuttle"
+        },
+        {
+          "type" : "check",
+          "key" : "kitchen",
+          "displayName" : "Kitchen"
+        }
+      ],
+      "id" : "08ba843e-aa75-4728-aaf7-9f4092d22eca",
+      "roomInfo" : "Double standard",
+      "country_slug" : "algeria",
+      "roomInfoSlug" : "double_standard",
+      "nearby" : [
+        {
+          "type" : "check",
+          "key" : "city_center",
+          "displayName" : "City center ( urban)"
+        },
+        {
+          "type" : "check",
+          "key" : "mountain",
+          "displayName" : "Mountain"
+        }
+      ],
+      "noRoomsAvailable" : 50,
+      "refund" : {
+        "hours" : "48 hrs",
+        "percentage" : 10,
+        "isRefund" : true
+      },
+      "certified" : false,
+      "city_slug" : "algeria-alger",
+      "price" : 1.72,
+      "rating" : "5 Star",
+      "address" : "Leaf Street",
+      "exchange_price" : {
+        "USD" : 1.72,
+        "EUR" : 1.54,
+        "DZD" : 231
+      }
+    },
+    {
+      "pin" : {
+        "location" : {
+          "lon" : 0,
+          "lat" : 0
+        }
+      },
+      "thumbnail" : [
+        "73b8b25b-455f-434c-aa84-dd1e3216b9bd\/nl-asset-dev-73b8b25b-455f-434c-aa84-dd1e3216b9bd-1740030175414-0-94175604.99860498.png",
+        "73b8b25b-455f-434c-aa84-dd1e3216b9bd\/nl-asset-dev-73b8b25b-455f-434c-aa84-dd1e3216b9bd-1740030199383-0-59426334.29829984.png"
+      ],
+      "title" : "Room order create",
+      "besthotel" : true,
+      "country" : "Algeria",
+      "livemode" : true,
+      "complementary" : [
+        {
+          "type" : "check",
+          "key" : "breakfast",
+          "displayName" : "Breakfast"
+        }
+      ],
+      "others" : [
+        {
+          "type" : "check",
+          "key" : "couple_friendly",
+          "displayName" : "Couple friendly"
+        },
+        {
+          "type" : "check",
+          "key" : "free_cancellation_policy",
+          "displayName" : "Free cancellation policy"
+        }
+      ],
+      "conferenceCenter" : [
+
+      ],
+      "currency" : {
+        "USD" : 18.609999999999999,
+        "EUR" : 16.66,
+        "DZD" : 2500
+      },
+      "active" : true,
+      "hotel_slug" : "room-order-create",
+      "activestatus" : {
+        "activeStatus" : {
+          "hotel_status_id" : "7b9af8eb-de18-4e2b-9481-137258c7c184"
+        },
+        "reason" : "Newly added Hotel by owner"
+      },
+      "city" : "Alger",
+      "moreInfo" : {
+        "cancelPolicy" : "",
+        "rooms" : [
+          {
+            "noRoomsAvailable" : 5,
+            "thumbnail" : [
+              "73b8b25b-455f-434c-aa84-dd1e3216b9bd\/nl-asset-dev-73b8b25b-455f-434c-aa84-dd1e3216b9bd-1740031213728-0-35259024.73333405.jpeg",
+              "73b8b25b-455f-434c-aa84-dd1e3216b9bd\/nl-asset-dev-73b8b25b-455f-434c-aa84-dd1e3216b9bd-1740031213833-1-55605262.33434108.jpeg"
+            ],
+            "sharing" : [
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "2b6beeb9-3d5a-4ceb-a3f1-00ef841f91fd",
+                "check" : true,
+                "currency" : {
+                  "USD" : 29.77,
+                  "EUR" : 26.649999999999999,
+                  "DZD" : 4000
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 29.77,
+                  "EUR" : 26.649999999999999,
+                  "DZD" : 4000
+                },
+                "noPerson" : 2,
+                "extraBedPrice" : 0,
+                "price" : 29.77,
+                "selectcurrency" : "DZD",
+                "noAdult" : 2,
+                "taxcurrency" : {
+                  "EUR" : "2.40",
+                  "USD" : "2.68",
+                  "DZD" : "360.00"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              }
+            ],
+            "room_type_slug" : "royal_suite",
+            "category" : "Couple",
+            "title" : "Royal Suite",
+            "numberOfRooms" : 5,
+            "roomId" : "41e63604-f551-4110-b596-72fccdf74b28",
+            "numberOfRoomsRegister" : 10,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "24_7_checkin",
+                "displayName" : "24\/7 Checkin"
+              },
+              {
+                "type" : "check",
+                "key" : "ac",
+                "displayName" : "AC"
+              },
+              {
+                "type" : "check",
+                "key" : "caf_",
+                "displayName" : "Café"
+              },
+              {
+                "type" : "check",
+                "key" : "card_payment",
+                "displayName" : "Card Payment"
+              },
+              {
+                "type" : "check",
+                "key" : "spa",
+                "displayName" : "Spa"
+              },
+              {
+                "type" : "check",
+                "key" : "tv",
+                "displayName" : "TV"
+              }
+            ],
+            "threshold" : false
+          },
+          {
+            "noRoomsAvailable" : 15,
+            "thumbnail" : [
+              "73b8b25b-455f-434c-aa84-dd1e3216b9bd\/nl-asset-dev-73b8b25b-455f-434c-aa84-dd1e3216b9bd-1740030678156-0-90709057.51953939.jpeg",
+              "73b8b25b-455f-434c-aa84-dd1e3216b9bd\/nl-asset-dev-73b8b25b-455f-434c-aa84-dd1e3216b9bd-1740030678157-1-16458249.523547625.jpeg"
+            ],
+            "sharing" : [
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "8786c6d5-2c20-46cd-ae2a-80e6bb9e1ce6",
+                "check" : true,
+                "currency" : {
+                  "USD" : 18.609999999999999,
+                  "EUR" : 16.66,
+                  "DZD" : 2500
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 18.609999999999999,
+                  "EUR" : 16.66,
+                  "DZD" : 2500
+                },
+                "noPerson" : 1,
+                "extraBedPrice" : 0,
+                "price" : 18.609999999999999,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "1.50",
+                  "USD" : "1.67",
+                  "DZD" : "225.00"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              },
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "9039ecb0-e125-45ce-8575-c66e71ac906f",
+                "check" : true,
+                "currency" : {
+                  "USD" : 29.77,
+                  "EUR" : 26.649999999999999,
+                  "DZD" : 4000
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 29.77,
+                  "EUR" : 26.649999999999999,
+                  "DZD" : 4000
+                },
+                "noPerson" : 2,
+                "extraBedPrice" : 0,
+                "price" : 29.77,
+                "selectcurrency" : "DZD",
+                "noAdult" : 2,
+                "taxcurrency" : {
+                  "EUR" : "2.40",
+                  "USD" : "2.68",
+                  "DZD" : "360.00"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              },
+              {
+                "noExtraBed" : 1,
+                "sharingId" : "2b5e0e38-8232-4d01-a3ff-a553b10ee810",
+                "check" : true,
+                "currency" : {
+                  "USD" : 37.210000000000001,
+                  "EUR" : 33.310000000000002,
+                  "DZD" : 5000
+                },
+                "noBed" : 2,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 1,
+                "exchange_price" : {
+                  "USD" : 37.210000000000001,
+                  "EUR" : 33.310000000000002,
+                  "DZD" : 5000
+                },
+                "noPerson" : 3,
+                "extraBedPrice" : 0,
+                "price" : 37.210000000000001,
+                "selectcurrency" : "DZD",
+                "noAdult" : 3,
+                "taxcurrency" : {
+                  "EUR" : "3.00",
+                  "USD" : "3.35",
+                  "DZD" : "450.00"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              }
+            ],
+            "room_type_slug" : "connecting_room",
+            "category" : "Group",
+            "title" : "Connecting room",
+            "numberOfRooms" : 15,
+            "roomId" : "bc952e83-4f71-40e0-a301-074903c9ddac",
+            "numberOfRoomsRegister" : 20,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "24_7_checkin",
+                "displayName" : "24\/7 Checkin"
+              },
+              {
+                "type" : "check",
+                "key" : "ac",
+                "displayName" : "AC"
+              },
+              {
+                "type" : "check",
+                "key" : "card_payment",
+                "displayName" : "Card Payment"
+              },
+              {
+                "type" : "check",
+                "key" : "first_aid",
+                "displayName" : "First Aid"
+              },
+              {
+                "type" : "check",
+                "key" : "parking",
+                "displayName" : "Parking"
+              },
+              {
+                "type" : "check",
+                "key" : "spa",
+                "displayName" : "Spa"
+              },
+              {
+                "type" : "check",
+                "key" : "tv",
+                "displayName" : "TV"
+              }
+            ],
+            "threshold" : false
+          },
+          {
+            "noRoomsAvailable" : 10,
+            "thumbnail" : [
+              "73b8b25b-455f-434c-aa84-dd1e3216b9bd\/nl-asset-dev-73b8b25b-455f-434c-aa84-dd1e3216b9bd-1740030772146-0-94413634.86608128.jpeg",
+              "73b8b25b-455f-434c-aa84-dd1e3216b9bd\/nl-asset-dev-73b8b25b-455f-434c-aa84-dd1e3216b9bd-1740030772148-1-29426851.854762096.jpeg"
+            ],
+            "sharing" : [
+              {
+                "noExtraBed" : 1,
+                "sharingId" : "824ec07a-9b65-41eb-88f9-42ec227fdc1a",
+                "check" : true,
+                "currency" : {
+                  "USD" : 29.77,
+                  "EUR" : 26.649999999999999,
+                  "DZD" : 4000
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 1,
+                "exchange_price" : {
+                  "USD" : 29.77,
+                  "EUR" : 26.649999999999999,
+                  "DZD" : 4000
+                },
+                "noPerson" : 2,
+                "extraBedPrice" : 0,
+                "price" : 29.77,
+                "selectcurrency" : "DZD",
+                "noAdult" : 2,
+                "taxcurrency" : {
+                  "EUR" : "2.40",
+                  "USD" : "2.68",
+                  "DZD" : "360.00"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              }
+            ],
+            "room_type_slug" : "junior_suite",
+            "category" : "Couple",
+            "title" : "Junior suite",
+            "numberOfRooms" : 10,
+            "roomId" : "2c374257-d6c2-4623-805f-58c21ec67e3e",
+            "numberOfRoomsRegister" : 25,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "24_7_checkin",
+                "displayName" : "24\/7 Checkin"
+              },
+              {
+                "type" : "check",
+                "key" : "ac",
+                "displayName" : "AC"
+              },
+              {
+                "type" : "check",
+                "key" : "balcony__terrace",
+                "displayName" : "Balcony\/ Terrace"
+              },
+              {
+                "type" : "check",
+                "key" : "barbeque",
+                "displayName" : "Barbeque"
+              },
+              {
+                "type" : "check",
+                "key" : "bath_tub",
+                "displayName" : "Bath tub"
+              },
+              {
+                "type" : "check",
+                "key" : "caf_",
+                "displayName" : "Café"
+              },
+              {
+                "type" : "check",
+                "key" : "card_payment",
+                "displayName" : "Card Payment"
+              },
+              {
+                "type" : "check",
+                "key" : "electric_kettle",
+                "displayName" : "Electric Kettle"
+              },
+              {
+                "type" : "check",
+                "key" : "elevator",
+                "displayName" : "Elevator"
+              },
+              {
+                "type" : "check",
+                "key" : "first_aid",
+                "displayName" : "First Aid"
+              },
+              {
+                "type" : "check",
+                "key" : "free_wi_fi",
+                "displayName" : "Free Wi-fi"
+              },
+              {
+                "type" : "check",
+                "key" : "gym",
+                "displayName" : "Gym"
+              },
+              {
+                "type" : "check",
+                "key" : "hair_dryer",
+                "displayName" : "Hair Dryer"
+              },
+              {
+                "type" : "check",
+                "key" : "laundry_services__washing_machine",
+                "displayName" : "Laundry Services"
+              },
+              {
+                "type" : "check",
+                "key" : "mini_fridge",
+                "displayName" : "Mini Fridge"
+              },
+              {
+                "type" : "check",
+                "key" : "parking",
+                "displayName" : "Parking"
+              },
+              {
+                "type" : "check",
+                "key" : "spa",
+                "displayName" : "Spa"
+              },
+              {
+                "type" : "check",
+                "key" : "tv",
+                "displayName" : "TV"
+              }
+            ],
+            "threshold" : false
+          },
+          {
+            "noRoomsAvailable" : 10,
+            "thumbnail" : [
+              "73b8b25b-455f-434c-aa84-dd1e3216b9bd\/nl-asset-dev-73b8b25b-455f-434c-aa84-dd1e3216b9bd-1740031100778-0-73984536.78892523.jpeg",
+              "73b8b25b-455f-434c-aa84-dd1e3216b9bd\/nl-asset-dev-73b8b25b-455f-434c-aa84-dd1e3216b9bd-1740031100780-1-38024425.629634336.jpeg"
+            ],
+            "sharing" : [
+              {
+                "noExtraBed" : 1,
+                "sharingId" : "136ca082-1c96-4ec2-b017-a1bf3fa4c04f",
+                "check" : true,
+                "currency" : {
+                  "USD" : 37.210000000000001,
+                  "EUR" : 33.310000000000002,
+                  "DZD" : 5000
+                },
+                "noBed" : 2,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 1,
+                "exchange_price" : {
+                  "USD" : 37.210000000000001,
+                  "EUR" : 33.310000000000002,
+                  "DZD" : 5000
+                },
+                "noPerson" : 3,
+                "extraBedPrice" : 500,
+                "price" : 37.210000000000001,
+                "extraBedExchangePrice" : {
+                  "USD" : 3.7210623493095336,
+                  "EUR" : 3.3300000000000001,
+                  "DZD" : 500
+                },
+                "selectcurrency" : "DZD",
+                "noAdult" : 4,
+                "taxcurrency" : {
+                  "EUR" : "3.00",
+                  "USD" : "3.35",
+                  "DZD" : "450.00"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 4
+              }
+            ],
+            "room_type_slug" : "family_suite",
+            "category" : "Family",
+            "title" : "Family Suite",
+            "numberOfRooms" : 10,
+            "roomId" : "a72a5041-85e1-427c-9ca3-380ced463b32",
+            "numberOfRoomsRegister" : 15,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "24_7_checkin",
+                "displayName" : "24\/7 Checkin"
+              },
+              {
+                "type" : "check",
+                "key" : "ac",
+                "displayName" : "AC"
+              },
+              {
+                "type" : "check",
+                "key" : "balcony__terrace",
+                "displayName" : "Balcony\/ Terrace"
+              },
+              {
+                "type" : "check",
+                "key" : "bath_tub",
+                "displayName" : "Bath tub"
+              },
+              {
+                "type" : "check",
+                "key" : "caf_",
+                "displayName" : "Café"
+              },
+              {
+                "type" : "check",
+                "key" : "card_payment",
+                "displayName" : "Card Payment"
+              },
+              {
+                "type" : "check",
+                "key" : "electric_kettle",
+                "displayName" : "Electric Kettle"
+              },
+              {
+                "type" : "check",
+                "key" : "elevator",
+                "displayName" : "Elevator"
+              },
+              {
+                "type" : "check",
+                "key" : "fire_place",
+                "displayName" : "Fire Place"
+              },
+              {
+                "type" : "check",
+                "key" : "free_wi_fi",
+                "displayName" : "Free Wi-fi"
+              },
+              {
+                "type" : "check",
+                "key" : "hair_dryer",
+                "displayName" : "Hair Dryer"
+              },
+              {
+                "type" : "check",
+                "key" : "tv",
+                "displayName" : "TV"
+              }
+            ],
+            "threshold" : false
+          }
+        ],
+        "notes" : "",
+        "policies" : "<p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?<\/p>",
+        "description" : "<p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?<\/p>"
+      },
+      "bestdeal" : true,
+      "tag" : [
+        {
+          "type" : "check",
+          "key" : "hotel",
+          "displayName" : "Hotel"
+        }
+      ],
+      "amenities" : [
+        {
+          "type" : "check",
+          "key" : "24_7_checkin",
+          "displayName" : "24\/7 Checkin"
+        },
+        {
+          "type" : "check",
+          "key" : "ac",
+          "displayName" : "AC"
+        },
+        {
+          "type" : "check",
+          "key" : "caf_",
+          "displayName" : "Café"
+        },
+        {
+          "type" : "check",
+          "key" : "card_payment",
+          "displayName" : "Card Payment"
+        },
+        {
+          "type" : "check",
+          "key" : "spa",
+          "displayName" : "Spa"
+        },
+        {
+          "type" : "check",
+          "key" : "tv",
+          "displayName" : "TV"
+        },
+        {
+          "type" : "check",
+          "key" : "first_aid",
+          "displayName" : "First Aid"
+        },
+        {
+          "type" : "check",
+          "key" : "parking",
+          "displayName" : "Parking"
+        },
+        {
+          "type" : "check",
+          "key" : "balcony__terrace",
+          "displayName" : "Balcony\/ Terrace"
+        },
+        {
+          "type" : "check",
+          "key" : "barbeque",
+          "displayName" : "Barbeque"
+        },
+        {
+          "type" : "check",
+          "key" : "bath_tub",
+          "displayName" : "Bath tub"
+        },
+        {
+          "type" : "check",
+          "key" : "electric_kettle",
+          "displayName" : "Electric Kettle"
+        },
+        {
+          "type" : "check",
+          "key" : "elevator",
+          "displayName" : "Elevator"
+        },
+        {
+          "type" : "check",
+          "key" : "free_wi_fi",
+          "displayName" : "Free Wi-fi"
+        },
+        {
+          "type" : "check",
+          "key" : "gym",
+          "displayName" : "Gym"
+        },
+        {
+          "type" : "check",
+          "key" : "hair_dryer",
+          "displayName" : "Hair Dryer"
+        },
+        {
+          "type" : "check",
+          "key" : "laundry_services__washing_machine",
+          "displayName" : "Laundry Services"
+        },
+        {
+          "type" : "check",
+          "key" : "mini_fridge",
+          "displayName" : "Mini Fridge"
+        },
+        {
+          "type" : "check",
+          "key" : "fire_place",
+          "displayName" : "Fire Place"
+        }
+      ],
+      "id" : "55dfe267-b763-4fe8-bf55-4e3faaa9dbca",
+      "roomInfo" : "Connecting room",
+      "country_slug" : "algeria",
+      "roomInfoSlug" : "connecting_room",
+      "nearby" : [
+        {
+          "type" : "check",
+          "key" : "spa_resort",
+          "displayName" : "Spa resort"
+        }
+      ],
+      "noRoomsAvailable" : 40,
+      "refund" : {
+        "hours" : "24 hrs",
+        "percentage" : 10,
+        "isRefund" : true
+      },
+      "certified" : false,
+      "city_slug" : "algeria-alger",
+      "price" : 18.609999999999999,
+      "rating" : "4 Star",
+      "address" : "La Rue Didouche Mourad",
+      "exchange_price" : {
+        "USD" : 18.609999999999999,
+        "EUR" : 16.66,
+        "DZD" : 2500
+      }
+    },
+    {
+      "pin" : {
+        "location" : {
+          "lon" : 3.0841699380925669,
+          "lat" : 36.73533345407845
+        }
+      },
+      "thumbnail" : [
+        "60538663-e1c3-46fe-b0df-d1033e6a8419\/nl-asset-dev-60538663-e1c3-46fe-b0df-d1033e6a8419-1679038966488-0-29245775.5796556.png",
+        "60538663-e1c3-46fe-b0df-d1033e6a8419\/nl-asset-dev-60538663-e1c3-46fe-b0df-d1033e6a8419-1679038975032-0-39812283.94935373.png"
+      ],
+      "title" : "Lue de pondy",
+      "besthotel" : false,
+      "country" : "Algeria",
+      "livemode" : true,
+      "complementary" : [
+        {
+          "type" : "check",
+          "key" : "breakfast",
+          "displayName" : "Breakfast"
+        },
+        {
+          "type" : "check",
+          "key" : "lunch",
+          "displayName" : "Lunch"
+        },
+        {
+          "type" : "check",
+          "key" : "dinner",
+          "displayName" : "Dinner"
+        }
+      ],
+      "others" : [
+        {
+          "type" : "check",
+          "key" : "couple_friendly",
+          "displayName" : "Couple friendly"
+        },
+        {
+          "type" : "check",
+          "key" : "free_cancellation_policy",
+          "displayName" : "Free cancellation policy"
+        },
+        {
+          "type" : "check",
+          "key" : "pay_at_hotel",
+          "displayName" : "Pay at hotel"
+        }
+      ],
+      "active" : true,
+      "currency" : {
+        "USD" : 30.170000000000002,
+        "EUR" : 27.010000000000002,
+        "DZD" : 4054
+      },
+      "activestatus" : {
+        "reason" : "Hotel details verified"
+      },
+      "hotel_slug" : "lue-de-pondy",
+      "city" : "Alger",
+      "moreInfo" : {
+        "cancelPolicy" : "",
+        "rooms" : [
+          {
+            "noRoomsAvailable" : 13,
+            "thumbnail" : [
+              "60538663-e1c3-46fe-b0df-d1033e6a8419\/nl-asset-dev-60538663-e1c3-46fe-b0df-d1033e6a8419-1679039052400-0-50196190.748896286.jpeg",
+              "60538663-e1c3-46fe-b0df-d1033e6a8419\/nl-asset-dev-60538663-e1c3-46fe-b0df-d1033e6a8419-1679039052426-1-51475623.21623626.jpeg"
+            ],
+            "sharing" : [
+              {
+                "currency" : {
+                  "USD" : 103.27,
+                  "EUR" : 92.459999999999994,
+                  "DZD" : 13877
+                },
+                "sharingId" : "08f47cc7-349a-4eb8-bf38-c67d8d1fe0e4",
+                "check" : true,
+                "noChildren" : 2,
+                "noBed" : 4,
+                "livemode" : true,
+                "tax" : 9,
+                "exchange_price" : {
+                  "USD" : 103.27,
+                  "EUR" : 92.459999999999994,
+                  "DZD" : 13877
+                },
+                "noPerson" : 1,
+                "price" : 103.27,
+                "selectcurrency" : "DZD",
+                "noAdult" : 3,
+                "taxcurrency" : {
+                  "EUR" : "8.01",
+                  "USD" : "8.56",
+                  "DZD" : "1248.89"
+                },
+                "noInfant" : 2,
+                "noExtraBed" : 3
+              },
+              {
+                "currency" : {
+                  "USD" : 103.27,
+                  "EUR" : 92.459999999999994,
+                  "DZD" : 13877
+                },
+                "sharingId" : "7228e9f2-ae48-4a3c-a0f6-1c2306b5de7a",
+                "check" : true,
+                "noChildren" : 3,
+                "noBed" : 6,
+                "livemode" : true,
+                "tax" : 9,
+                "exchange_price" : {
+                  "USD" : 103.27,
+                  "EUR" : 92.459999999999994,
+                  "DZD" : 13877
+                },
+                "noPerson" : 2,
+                "price" : 103.27,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "8.01",
+                  "USD" : "8.56",
+                  "DZD" : "1248.89"
+                },
+                "noInfant" : 1,
+                "noExtraBed" : 3
+              },
+              {
+                "currency" : {
+                  "USD" : 111.39,
+                  "EUR" : 99.730000000000004,
+                  "DZD" : 14968
+                },
+                "sharingId" : "c3cc31b3-dce9-435b-b140-3259361eda8a",
+                "check" : true,
+                "noChildren" : 5,
+                "noBed" : 5,
+                "livemode" : true,
+                "tax" : 9,
+                "exchange_price" : {
+                  "USD" : 111.39,
+                  "EUR" : 99.730000000000004,
+                  "DZD" : 14968
+                },
+                "noPerson" : 3,
+                "price" : 111.39,
+                "selectcurrency" : "DZD",
+                "noAdult" : 3,
+                "taxcurrency" : {
+                  "EUR" : "8.64",
+                  "USD" : "9.23",
+                  "DZD" : "1347.12"
+                },
+                "noInfant" : 8,
+                "noExtraBed" : 1
+              }
+            ],
+            "room_type_slug" : "double_standard",
+            "category" : "Group",
+            "title" : "Double standard",
+            "numberOfRooms" : 13,
+            "roomId" : "421487f7-2227-4d2d-ad10-a52319dd992a",
+            "numberOfRoomsRegister" : 18,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "telephone",
+                "displayName" : "Telephone"
+              },
+              {
+                "type" : "check",
+                "key" : "kitchen",
+                "displayName" : "Kitchen"
+              },
+              {
+                "type" : "check",
+                "key" : "bath_tub",
+                "displayName" : "Bath tub"
+              },
+              {
+                "type" : "check",
+                "key" : "ac",
+                "displayName" : "AC"
+              }
+            ],
+            "threshold" : true
+          },
+          {
+            "noRoomsAvailable" : 8,
+            "thumbnail" : [
+              "60538663-e1c3-46fe-b0df-d1033e6a8419\/nl-asset-dev-60538663-e1c3-46fe-b0df-d1033e6a8419-1679039105026-0-85710840.63812983.jpeg",
+              "60538663-e1c3-46fe-b0df-d1033e6a8419\/nl-asset-dev-60538663-e1c3-46fe-b0df-d1033e6a8419-1679039105027-1-56753007.589642406.jpeg"
+            ],
+            "sharing" : [
+              {
+                "currency" : {
+                  "USD" : 97.469999999999999,
+                  "EUR" : 87.260000000000005,
+                  "DZD" : 13097
+                },
+                "sharingId" : "69df29a0-d010-4c84-8a0e-08eda3bf644f",
+                "check" : true,
+                "noChildren" : 2,
+                "noBed" : 6,
+                "livemode" : true,
+                "tax" : 9,
+                "exchange_price" : {
+                  "USD" : 97.469999999999999,
+                  "EUR" : 87.260000000000005,
+                  "DZD" : 13097
+                },
+                "noPerson" : 1,
+                "price" : 97.469999999999999,
+                "selectcurrency" : "DZD",
+                "noAdult" : 3,
+                "taxcurrency" : {
+                  "EUR" : "7.56",
+                  "USD" : "8.08",
+                  "DZD" : "1178.73"
+                },
+                "noInfant" : 1,
+                "noExtraBed" : 1
+              },
+              {
+                "currency" : {
+                  "USD" : 30.170000000000002,
+                  "EUR" : 27.010000000000002,
+                  "DZD" : 4054
+                },
+                "sharingId" : "738e5a14-0c67-46b0-8a9c-c5bc34f5e0c8",
+                "check" : true,
+                "noChildren" : 1,
+                "noBed" : 5,
+                "livemode" : true,
+                "tax" : 9,
+                "exchange_price" : {
+                  "USD" : 30.170000000000002,
+                  "EUR" : 27.010000000000002,
+                  "DZD" : 4054
+                },
+                "noPerson" : 2,
+                "price" : 30.170000000000002,
+                "selectcurrency" : "DZD",
+                "noAdult" : 3,
+                "taxcurrency" : {
+                  "EUR" : "2.34",
+                  "USD" : "2.50",
+                  "DZD" : "364.84"
+                },
+                "noInfant" : 2,
+                "noExtraBed" : 2
+              },
+              {
+                "currency" : {
+                  "USD" : 90.5,
+                  "EUR" : 81.030000000000001,
+                  "DZD" : 12161
+                },
+                "sharingId" : "869dfca0-0111-46db-8615-22db9a4a04a7",
+                "check" : true,
+                "noChildren" : 1,
+                "noBed" : 3,
+                "livemode" : true,
+                "tax" : 9,
+                "exchange_price" : {
+                  "USD" : 90.5,
+                  "EUR" : 81.030000000000001,
+                  "DZD" : 12161
+                },
+                "noPerson" : 3,
+                "price" : 90.5,
+                "selectcurrency" : "DZD",
+                "noAdult" : 5,
+                "taxcurrency" : {
+                  "EUR" : "7.02",
+                  "USD" : "7.50",
+                  "DZD" : "1094.53"
+                },
+                "noInfant" : 2,
+                "noExtraBed" : 2
+              }
+            ],
+            "room_type_slug" : "deluxe",
+            "category" : "Couple",
+            "title" : "Deluxe",
+            "numberOfRooms" : 8,
+            "roomId" : "8c36bc56-e21b-4c3c-acc3-30bf613c0d84",
+            "numberOfRoomsRegister" : 20,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "telephone",
+                "displayName" : "Telephone"
+              },
+              {
+                "type" : "check",
+                "key" : "kitchen",
+                "displayName" : "Kitchen"
+              },
+              {
+                "type" : "check",
+                "key" : "living_room",
+                "displayName" : "Living room"
+              },
+              {
+                "type" : "check",
+                "key" : "bath_tub",
+                "displayName" : "Bath tub"
+              }
+            ],
+            "threshold" : true
+          },
+          {
+            "noRoomsAvailable" : 8,
+            "thumbnail" : [
+              "60538663-e1c3-46fe-b0df-d1033e6a8419\/nl-asset-dev-60538663-e1c3-46fe-b0df-d1033e6a8419-1679039154872-0-35179495.46697066.jpeg",
+              "60538663-e1c3-46fe-b0df-d1033e6a8419\/nl-asset-dev-60538663-e1c3-46fe-b0df-d1033e6a8419-1679039154873-1-78883483.4329107.jpeg"
+            ],
+            "sharing" : [
+              {
+                "currency" : {
+                  "USD" : 68.459999999999994,
+                  "EUR" : 61.289999999999999,
+                  "DZD" : 9199
+                },
+                "sharingId" : "6b4ec83f-c00e-46fd-9172-c33eb7e1e51a",
+                "check" : true,
+                "noChildren" : 2,
+                "noBed" : 3,
+                "livemode" : true,
+                "tax" : 9,
+                "exchange_price" : {
+                  "USD" : 68.459999999999994,
+                  "EUR" : 61.289999999999999,
+                  "DZD" : 9199
+                },
+                "noPerson" : 1,
+                "price" : 68.459999999999994,
+                "selectcurrency" : "DZD",
+                "noAdult" : 3,
+                "taxcurrency" : {
+                  "EUR" : "5.31",
+                  "USD" : "5.67",
+                  "DZD" : "827.92"
+                },
+                "noInfant" : 5,
+                "noExtraBed" : 2
+              },
+              {
+                "currency" : {
+                  "USD" : 41.770000000000003,
+                  "EUR" : 37.399999999999999,
+                  "DZD" : 5613
+                },
+                "sharingId" : "c7fcfa86-dd7a-4d2e-9015-ad0f627415bb",
+                "check" : true,
+                "noChildren" : 3,
+                "noBed" : 4,
+                "livemode" : true,
+                "tax" : 9,
+                "exchange_price" : {
+                  "USD" : 41.770000000000003,
+                  "EUR" : 37.399999999999999,
+                  "DZD" : 5613
+                },
+                "noPerson" : 2,
+                "price" : 41.770000000000003,
+                "selectcurrency" : "DZD",
+                "noAdult" : 2,
+                "taxcurrency" : {
+                  "EUR" : "3.24",
+                  "USD" : "3.46",
+                  "DZD" : "505.17"
+                },
+                "noInfant" : 3,
+                "noExtraBed" : 4
+              },
+              {
+                "currency" : {
+                  "USD" : 103.27,
+                  "EUR" : 92.459999999999994,
+                  "DZD" : 13877
+                },
+                "sharingId" : "55771744-79fa-4ab8-a798-53a6746f2448",
+                "check" : true,
+                "noChildren" : 0,
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "exchange_price" : {
+                  "USD" : 103.27,
+                  "EUR" : 92.459999999999994,
+                  "DZD" : 13877
+                },
+                "noPerson" : 3,
+                "price" : 103.27,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "8.01",
+                  "USD" : "8.56",
+                  "DZD" : "1248.89"
+                },
+                "noInfant" : 0,
+                "noExtraBed" : 0
+              }
+            ],
+            "room_type_slug" : "suite",
+            "category" : "Couple",
+            "title" : "Suite",
+            "numberOfRooms" : 8,
+            "roomId" : "22d8794a-96a1-42fb-817a-8f1fb0c6a1cc",
+            "numberOfRoomsRegister" : 16,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "kitchen",
+                "displayName" : "Kitchen"
+              },
+              {
+                "type" : "check",
+                "key" : "living_room",
+                "displayName" : "Living room"
+              },
+              {
+                "type" : "check",
+                "key" : "bath_tub",
+                "displayName" : "Bath tub"
+              },
+              {
+                "type" : "check",
+                "key" : "ac",
+                "displayName" : "AC"
+              }
+            ],
+            "threshold" : true
+          }
+        ],
+        "notes" : "<p>offers notes <\/p>",
+        "policies" : "<p>Namlatic Booking<\/p>",
+        "description" : "<p>Namlatic Booking<\/p>"
+      },
+      "bestdeal" : false,
+      "tag" : [
+        {
+          "type" : "check",
+          "key" : "home",
+          "displayName" : "Home"
+        }
+      ],
+      "amenities" : [
+        {
+          "type" : "check",
+          "key" : "telephone",
+          "displayName" : "Telephone"
+        },
+        {
+          "type" : "check",
+          "key" : "kitchen",
+          "displayName" : "Kitchen"
+        },
+        {
+          "type" : "check",
+          "key" : "bath_tub",
+          "displayName" : "Bath tub"
+        },
+        {
+          "type" : "check",
+          "key" : "ac",
+          "displayName" : "AC"
+        },
+        {
+          "type" : "check",
+          "key" : "living_room",
+          "displayName" : "Living room"
+        }
+      ],
+      "id" : "03a56034-3d54-4b86-8c29-18f258e0d5a9",
+      "roomInfo" : "Deluxe",
+      "country_slug" : "algeria",
+      "roomInfoSlug" : "deluxe",
+      "nearby" : [
+        {
+          "type" : "check",
+          "key" : "beach",
+          "displayName" : "Beach"
+        },
+        {
+          "type" : "check",
+          "key" : "sahara",
+          "displayName" : "Sahara"
+        },
+        {
+          "type" : "check",
+          "key" : "mountain",
+          "displayName" : "Mountain"
+        }
+      ],
+      "noRoomsAvailable" : 29,
+      "refund" : {
+        "hours" : "24 hrs",
+        "percentage" : 10,
+        "isRefund" : true
+      },
+      "certified" : false,
+      "city_slug" : "algeria-alger",
+      "price" : 27.789999999999999,
+      "rating" : "5 Star",
+      "address" : "Puducherry",
+      "exchange_price" : {
+        "USD" : 30.170000000000002,
+        "EUR" : 27.010000000000002,
+        "DZD" : 4054
+      }
+    },
+    {
+      "pin" : {
+        "location" : {
+          "lon" : 0,
+          "lat" : 0
+        }
+      },
+      "thumbnail" : [
+        "b3b61d65-6c88-4208-bd9c-063860ada936\/nl-asset-dev-b3b61d65-6c88-4208-bd9c-063860ada936-1701770760052-0-78047615.64427026.png",
+        "b3b61d65-6c88-4208-bd9c-063860ada936\/nl-asset-dev-b3b61d65-6c88-4208-bd9c-063860ada936-1701770769665-0-37323804.30002069.png"
+      ],
+      "title" : "Yuvan Hotel",
+      "besthotel" : false,
+      "country" : "Algeria",
+      "livemode" : true,
+      "complementary" : [
+
+      ],
+      "others" : [
+
+      ],
+      "conferenceCenter" : [
+
+      ],
+      "currency" : {
+        "USD" : 0.089999999999999997,
+        "EUR" : 0.080000000000000002,
+        "DZD" : 12
+      },
+      "active" : true,
+      "hotel_slug" : "yuvan-hotel",
+      "activestatus" : {
+        "reason" : "Hotel details verified"
+      },
+      "city" : "Alger",
+      "moreInfo" : {
+        "cancelPolicy" : "",
+        "rooms" : [
+          {
+            "noRoomsAvailable" : 17,
+            "thumbnail" : [
+              "b3b61d65-6c88-4208-bd9c-063860ada936\/nl-asset-dev-b3b61d65-6c88-4208-bd9c-063860ada936-1701770871332-0-48325360.59383797.jpeg",
+              "b3b61d65-6c88-4208-bd9c-063860ada936\/nl-asset-dev-b3b61d65-6c88-4208-bd9c-063860ada936-1701770871335-1-82069178.1542223.jpeg"
+            ],
+            "sharing" : [
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "a703a1c9-5f98-4ef6-962e-345387a7e867",
+                "check" : true,
+                "currency" : {
+                  "USD" : 0.089999999999999997,
+                  "EUR" : 0.080000000000000002,
+                  "DZD" : 12
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 0.089999999999999997,
+                  "EUR" : 0.080000000000000002,
+                  "DZD" : 12
+                },
+                "noPerson" : 1,
+                "extraBedPrice" : 0,
+                "price" : 0.089999999999999997,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "0.01",
+                  "USD" : "0.01",
+                  "DZD" : "1.08"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              }
+            ],
+            "room_type_slug" : "classic",
+            "category" : "Group",
+            "title" : "Classic",
+            "numberOfRooms" : 17,
+            "roomId" : "9fa2932e-1f18-4ba8-b5dc-7b14b0294f38",
+            "numberOfRoomsRegister" : 27,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "airport_shuttle",
+                "displayName" : "Airport Shuttle"
+              },
+              {
+                "type" : "check",
+                "key" : "kitchen",
+                "displayName" : "Kitchen"
+              }
+            ],
+            "threshold" : false
+          },
+          {
+            "noRoomsAvailable" : 10,
+            "thumbnail" : [
+              "b3b61d65-6c88-4208-bd9c-063860ada936\/nl-asset-dev-b3b61d65-6c88-4208-bd9c-063860ada936-1701770895940-0-74826257.10968415.jpeg",
+              "b3b61d65-6c88-4208-bd9c-063860ada936\/nl-asset-dev-b3b61d65-6c88-4208-bd9c-063860ada936-1701770895942-1-26108406.9482325.jpeg"
+            ],
+            "sharing" : [
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "280341d8-5808-490b-a021-a1dea5614831",
+                "check" : true,
+                "currency" : {
+                  "USD" : 0.10000000000000001,
+                  "EUR" : 0.089999999999999997,
+                  "DZD" : 13
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 0.10000000000000001,
+                  "EUR" : 0.089999999999999997,
+                  "DZD" : 13
+                },
+                "noPerson" : 1,
+                "extraBedPrice" : 0,
+                "price" : 0.10000000000000001,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "0.01",
+                  "USD" : "0.01",
+                  "DZD" : "1.17"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              }
+            ],
+            "room_type_slug" : "deluxe",
+            "category" : "Group",
+            "title" : "Deluxe",
+            "numberOfRooms" : 10,
+            "roomId" : "a06f7a70-9049-4676-99cd-fef428277a28",
+            "numberOfRoomsRegister" : 15,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "airport_shuttle",
+                "displayName" : "Airport Shuttle"
+              },
+              {
+                "type" : "check",
+                "key" : "free_wi_fi",
+                "displayName" : "Free Wi-fi"
+              }
+            ],
+            "threshold" : false
+          }
+        ],
+        "notes" : "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<\/p>",
+        "policies" : "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<\/p>",
+        "description" : "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<\/p>"
+      },
+      "bestdeal" : false,
+      "tag" : [
+        {
+          "type" : "check",
+          "key" : "hotel",
+          "displayName" : "Hotel"
+        }
+      ],
+      "amenities" : [
+        {
+          "type" : "check",
+          "key" : "airport_shuttle",
+          "displayName" : "Airport Shuttle"
+        },
+        {
+          "type" : "check",
+          "key" : "kitchen",
+          "displayName" : "Kitchen"
+        },
+        {
+          "type" : "check",
+          "key" : "free_wi_fi",
+          "displayName" : "Free Wi-fi"
+        }
+      ],
+      "id" : "2b6caac8-8118-414d-930e-195d34179afc",
+      "roomInfo" : "Classic",
+      "country_slug" : "algeria",
+      "roomInfoSlug" : "classic",
+      "nearby" : [
+
+      ],
+      "noRoomsAvailable" : 27,
+      "refund" : {
+        "hours" : "24 hrs",
+        "percentage" : 10,
+        "isRefund" : true
+      },
+      "certified" : false,
+      "city_slug" : "algeria-alger",
+      "price" : 0.089999999999999997,
+      "rating" : "5 Star",
+      "address" : "Alger",
+      "exchange_price" : {
+        "USD" : 0.089999999999999997,
+        "EUR" : 0.080000000000000002,
+        "DZD" : 12
+      }
+    },
+    {
+      "pin" : {
+        "location" : {
+          "lon" : 75,
+          "lat" : 13
+        }
+      },
+      "thumbnail" : [
+        "0eb89b69-ffbc-46b6-9e9c-a573b5dd605a\/nl-asset-dev-0eb89b69-ffbc-46b6-9e9c-a573b5dd605a-1664280605770-0-58276395.413745746.png",
+        "0eb89b69-ffbc-46b6-9e9c-a573b5dd605a\/nl-asset-dev-0eb89b69-ffbc-46b6-9e9c-a573b5dd605a-1664280613445-0-18746257.30143698.png"
+      ],
+      "title" : "Royal Galaxy",
+      "besthotel" : false,
+      "country" : "Algeria",
+      "livemode" : true,
+      "complementary" : [
+        {
+          "type" : "check",
+          "key" : "breakfast",
+          "displayName" : "Breakfast"
+        },
+        {
+          "type" : "check",
+          "key" : "lunch",
+          "displayName" : "Lunch"
+        },
+        {
+          "type" : "check",
+          "key" : "dinner",
+          "displayName" : "Dinner"
+        }
+      ],
+      "others" : [
+        {
+          "type" : "check",
+          "key" : "couple_friendly",
+          "displayName" : "Couple friendly"
+        },
+        {
+          "type" : "check",
+          "key" : "free_cancellation_policy",
+          "displayName" : "Free cancellation policy"
+        },
+        {
+          "type" : "check",
+          "key" : "pay_at_hotel",
+          "displayName" : "Pay at hotel"
+        }
+      ],
+      "active" : true,
+      "currency" : {
+        "USD" : 2.3199999999999998,
+        "EUR" : 2.0800000000000001,
+        "DZD" : 312
+      },
+      "activestatus" : {
+        "activeStatus" : {
+          "hotel_status_id" : "1b7bad1e-66b5-4f48-a994-43db0ca84707"
+        },
+        "reason" : "Technical issues has been resolved"
+      },
+      "hotel_slug" : "royal-galaxy",
+      "city" : "Alger",
+      "moreInfo" : {
+        "cancelPolicy" : "",
+        "rooms" : [
+          {
+            "noExtraBed" : "",
+            "noRoomsAvailable" : 10,
+            "category" : "Family",
+            "noChildren" : "",
+            "noBed" : "",
+            "numberOfRooms" : 10,
+            "title" : "Deluxe",
+            "roomId" : "abd21d53-b60e-48f8-8b92-c255e2319b9d",
+            "numberOfRoomsRegister" : 20,
+            "sharing" : [
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "4efe8cfc-167d-435f-8f6b-4709b0433ab8",
+                "check" : true,
+                "currency" : {
+                  "USD" : 5.7999999999999998,
+                  "EUR" : 5.1900000000000004,
+                  "DZD" : 779
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 5.7999999999999998,
+                  "EUR" : 5.1900000000000004,
+                  "DZD" : 779
+                },
+                "noPerson" : 1,
+                "extraBedPrice" : 500,
+                "price" : 5.7999999999999998,
+                "extraBedExchangePrice" : {
+                  "USD" : 3.7210623493095336,
+                  "EUR" : 3.3300000000000001,
+                  "DZD" : 500
+                },
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "0.47",
+                  "USD" : "0.52",
+                  "DZD" : "70.11"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 5
+              },
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "bf61f683-22aa-43eb-8a28-0e4a28d140dc",
+                "check" : true,
+                "currency" : {
+                  "USD" : 2.3199999999999998,
+                  "EUR" : 2.0800000000000001,
+                  "DZD" : 312
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 2.3199999999999998,
+                  "EUR" : 2.0800000000000001,
+                  "DZD" : 312
+                },
+                "noPerson" : 2,
+                "extraBedPrice" : 600,
+                "price" : 2.3199999999999998,
+                "extraBedExchangePrice" : {
+                  "USD" : 4.46527481917144,
+                  "EUR" : 4,
+                  "DZD" : 600
+                },
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "0.19",
+                  "USD" : "0.21",
+                  "DZD" : "28.08"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 10
+              },
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "a5fbef58-bf68-43fc-94a2-1904a1428abc",
+                "check" : true,
+                "currency" : {
+                  "USD" : 2.6200000000000001,
+                  "EUR" : 2.3500000000000001,
+                  "DZD" : 352
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 2.6200000000000001,
+                  "EUR" : 2.3500000000000001,
+                  "DZD" : 352
+                },
+                "noPerson" : 3,
+                "extraBedPrice" : 700,
+                "price" : 2.6200000000000001,
+                "extraBedExchangePrice" : {
+                  "USD" : 5.2094872890333468,
+                  "EUR" : 4.6600000000000001,
+                  "DZD" : 700
+                },
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "0.21",
+                  "USD" : "0.24",
+                  "DZD" : "31.68"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 7
+              }
+            ],
+            "room_type_slug" : "deluxe",
+            "thumbnail" : [
+              "0eb89b69-ffbc-46b6-9e9c-a573b5dd605a\/nl-asset-dev-0eb89b69-ffbc-46b6-9e9c-a573b5dd605a-1664280691538-0-69848080.01160127.png",
+              "0eb89b69-ffbc-46b6-9e9c-a573b5dd605a\/nl-asset-dev-0eb89b69-ffbc-46b6-9e9c-a573b5dd605a-1664280691632-1-35518846.98904169.png"
+            ],
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "room_service",
+                "displayName" : "Room Service"
+              },
+              {
+                "type" : "check",
+                "key" : "free_wi_fi",
+                "displayName" : "Free Wi-fi"
+              },
+              {
+                "type" : "check",
+                "key" : "kitchen",
+                "displayName" : "Kitchen"
+              },
+              {
+                "type" : "check",
+                "key" : "living_room",
+                "displayName" : "Living room"
+              }
+            ],
+            "noAdult" : "",
+            "noInfant" : "",
+            "threshold" : false
+          },
+          {
+            "noRoomsAvailable" : 5,
+            "thumbnail" : [
+              "a5cc2465-0dff-4ee7-ac6e-d26ce651fcff\/nl-asset-dev-a5cc2465-0dff-4ee7-ac6e-d26ce651fcff-1688045699075-0-85394172.48152524.jpeg",
+              "a5cc2465-0dff-4ee7-ac6e-d26ce651fcff\/nl-asset-dev-a5cc2465-0dff-4ee7-ac6e-d26ce651fcff-1688045699077-1-20730183.75984741.jpeg"
+            ],
+            "sharing" : [
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "61e5fd79-dfc4-42a0-89da-74af74db6a49",
+                "check" : true,
+                "currency" : {
+                  "USD" : 5.21,
+                  "EUR" : 4.6600000000000001,
+                  "DZD" : 700
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 5.21,
+                  "EUR" : 4.6600000000000001,
+                  "DZD" : 700
+                },
+                "noPerson" : 1,
+                "extraBedPrice" : 400,
+                "price" : 5.21,
+                "extraBedExchangePrice" : {
+                  "USD" : 2.9768498794476268,
+                  "EUR" : 2.6699999999999999,
+                  "DZD" : 400
+                },
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "0.42",
+                  "USD" : "0.47",
+                  "DZD" : "63.00"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 5
+              },
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "eb4097d0-2fd4-427d-b4de-73a5eb789215",
+                "check" : true,
+                "currency" : {
+                  "USD" : 7.4400000000000004,
+                  "EUR" : 6.6600000000000001,
+                  "DZD" : 1000
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 7.4400000000000004,
+                  "EUR" : 6.6600000000000001,
+                  "DZD" : 1000
+                },
+                "noPerson" : 2,
+                "extraBedPrice" : 0,
+                "price" : 7.4400000000000004,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "0.60",
+                  "USD" : "0.67",
+                  "DZD" : "90.00"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              },
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "11f0fb96-9521-4733-899e-06d3bafee909",
+                "check" : true,
+                "currency" : {
+                  "USD" : 8.1899999999999995,
+                  "EUR" : 7.3300000000000001,
+                  "DZD" : 1100
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 8.1899999999999995,
+                  "EUR" : 7.3300000000000001,
+                  "DZD" : 1100
+                },
+                "noPerson" : 3,
+                "extraBedPrice" : 500,
+                "price" : 8.1899999999999995,
+                "extraBedExchangePrice" : {
+                  "USD" : 3.7210623493095336,
+                  "EUR" : 3.3300000000000001,
+                  "DZD" : 500
+                },
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "0.66",
+                  "USD" : "0.74",
+                  "DZD" : "99.00"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 6
+              }
+            ],
+            "room_type_slug" : "classic",
+            "category" : "Solo",
+            "title" : "Classic",
+            "numberOfRooms" : 5,
+            "roomId" : "cd60eed8-047f-4cee-a0a9-de43b6b65158",
+            "numberOfRoomsRegister" : 5,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "room_service",
+                "displayName" : "Room Service"
+              },
+              {
+                "type" : "check",
+                "key" : "telephone",
+                "displayName" : "Telephone"
+              },
+              {
+                "type" : "check",
+                "key" : "living_room",
+                "displayName" : "Living room"
+              }
+            ],
+            "threshold" : false
+          }
+        ],
+        "notes" : "<p>Hotel offers <\/p>",
+        "policies" : "<p>policy<\/p>",
+        "description" : "<p>descriptions<\/p>"
+      },
+      "bestdeal" : false,
+      "tag" : [
+        {
+          "type" : "check",
+          "key" : "hotel",
+          "displayName" : "Hotel"
+        }
+      ],
+      "amenities" : [
+        {
+          "type" : "check",
+          "key" : "room_service",
+          "displayName" : "Room Service"
+        },
+        {
+          "type" : "check",
+          "key" : "free_wi_fi",
+          "displayName" : "Free Wi-fi"
+        },
+        {
+          "type" : "check",
+          "key" : "kitchen",
+          "displayName" : "Kitchen"
+        },
+        {
+          "type" : "check",
+          "key" : "living_room",
+          "displayName" : "Living room"
+        },
+        {
+          "type" : "check",
+          "key" : "telephone",
+          "displayName" : "Telephone"
+        }
+      ],
+      "id" : "fd94b0b6-b92b-4f19-ad57-a13482f3ddef",
+      "roomInfo" : "Deluxe",
+      "country_slug" : "algeria",
+      "roomInfoSlug" : "deluxe",
+      "nearby" : [
+        {
+          "type" : "check",
+          "key" : "city_center",
+          "displayName" : "City center ( urban)"
+        },
+        {
+          "type" : "check",
+          "key" : "beach",
+          "displayName" : "Beach"
+        },
+        {
+          "type" : "check",
+          "key" : "mountain",
+          "displayName" : "Mountain"
+        },
+        {
+          "type" : "check",
+          "key" : "airport",
+          "displayName" : "Airport"
+        }
+      ],
+      "noRoomsAvailable" : 15,
+      "refund" : {
+        "hours" : "24 hrs",
+        "percentage" : 10,
+        "isPayAtHotel" : true,
+        "isRefund" : true
+      },
+      "certified" : false,
+      "city_slug" : "algeria-alger",
+      "price" : 2.3199999999999998,
+      "rating" : "4 Star",
+      "address" : "alger",
+      "exchange_price" : {
+        "USD" : 2.3199999999999998,
+        "EUR" : 2.0800000000000001,
+        "DZD" : 312
+      }
+    },
+    {
+      "pin" : {
+        "location" : {
+          "lon" : 234,
+          "lat" : 234
+        }
+      },
+      "thumbnail" : [
+        "23f0be48-20af-45f7-8e67-f19a76109eb4\/nl-asset-dev-23f0be48-20af-45f7-8e67-f19a76109eb4-1674194224086-0-24680487.75255869.png",
+        "23f0be48-20af-45f7-8e67-f19a76109eb4\/nl-asset-dev-23f0be48-20af-45f7-8e67-f19a76109eb4-1674194245127-0-87619847.32041074.png"
+      ],
+      "title" : "test ho'tel new",
+      "besthotel" : false,
+      "country" : "Algeria",
+      "livemode" : true,
+      "complementary" : [
+        {
+          "type" : "check",
+          "key" : "breakfast",
+          "displayName" : "Breakfast"
+        }
+      ],
+      "others" : [
+        {
+          "type" : "check",
+          "key" : "pay_at_hotel",
+          "displayName" : "Pay at hotel"
+        }
+      ],
+      "active" : true,
+      "currency" : {
+        "USD" : 142.72999999999999,
+        "EUR" : 127.78,
+        "DZD" : 19178
+      },
+      "activestatus" : {
+        "activeStatus" : {
+          "hotel_status_id" : "fbefdb92-e3da-4a96-818d-e218ab12519d"
+        },
+        "reason" : "Newly added Hotel by owner"
+      },
+      "hotel_slug" : "test-ho'tel-new",
+      "city" : "Alger",
+      "moreInfo" : {
+        "cancelPolicy" : "",
+        "rooms" : [
+          {
+            "noRoomsAvailable" : 15,
+            "thumbnail" : [
+              "23f0be48-20af-45f7-8e67-f19a76109eb4\/nl-asset-dev-23f0be48-20af-45f7-8e67-f19a76109eb4-1674194331248-0-31671785.736114617.jpeg",
+              "23f0be48-20af-45f7-8e67-f19a76109eb4\/nl-asset-dev-23f0be48-20af-45f7-8e67-f19a76109eb4-1674194335726-0-68128315.73476472.jpeg"
+            ],
+            "sharing" : [
+              {
+                "currency" : {
+                  "USD" : 142.72999999999999,
+                  "EUR" : 127.78,
+                  "DZD" : 19178
+                },
+                "sharingId" : "d673e882-0ef3-4885-b293-98d4eadf1b39",
+                "check" : true,
+                "noChildren" : 0,
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "exchange_price" : {
+                  "USD" : 142.72999999999999,
+                  "EUR" : 127.78,
+                  "DZD" : 19178
+                },
+                "noPerson" : 1,
+                "price" : 142.72999999999999,
+                "selectcurrency" : "DZD",
+                "noAdult" : 2,
+                "taxcurrency" : {
+                  "EUR" : "11.07",
+                  "USD" : "11.83",
+                  "DZD" : "1725.99"
+                },
+                "noInfant" : 0,
+                "noExtraBed" : 0
+              },
+              {
+                "currency" : {
+                  "USD" : 271.51999999999998,
+                  "EUR" : 243.09,
+                  "DZD" : 36484
+                },
+                "sharingId" : "aa39988b-9554-4dc0-8e36-1f5b196fc146",
+                "check" : true,
+                "noChildren" : 0,
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "exchange_price" : {
+                  "USD" : 271.51999999999998,
+                  "EUR" : 243.09,
+                  "DZD" : 36484
+                },
+                "noPerson" : 2,
+                "price" : 271.51999999999998,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "21.06",
+                  "USD" : "22.51",
+                  "DZD" : "3283.60"
+                },
+                "noInfant" : 0,
+                "noExtraBed" : 0
+              }
+            ],
+            "room_type_slug" : "suite",
+            "category" : "Group",
+            "title" : "Suite",
+            "numberOfRooms" : 15,
+            "roomId" : "6b9e38ab-a138-443a-9b08-0459ad534f54",
+            "numberOfRoomsRegister" : 30,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "telephone",
+                "displayName" : "Telephone"
+              },
+              {
+                "type" : "check",
+                "key" : "free_wi_fi",
+                "displayName" : "Free Wi-fi"
+              },
+              {
+                "type" : "check",
+                "key" : "ac",
+                "displayName" : "AC"
+              }
+            ],
+            "threshold" : true
+          }
+        ],
+        "description" : "<p>Description<\/p>",
+        "policies" : "<p>policy<\/p>"
+      },
+      "bestdeal" : false,
+      "tag" : [
+        {
+          "type" : "check",
+          "key" : "hotel",
+          "displayName" : "Hotel"
+        }
+      ],
+      "amenities" : [
+        {
+          "type" : "check",
+          "key" : "telephone",
+          "displayName" : "Telephone"
+        },
+        {
+          "type" : "check",
+          "key" : "free_wi_fi",
+          "displayName" : "Free Wi-fi"
+        },
+        {
+          "type" : "check",
+          "key" : "ac",
+          "displayName" : "AC"
+        }
+      ],
+      "id" : "de5b97b7-0f32-40c9-bc27-c10b3ef9e083",
+      "roomInfo" : "Suite",
+      "country_slug" : "algeria",
+      "roomInfoSlug" : "suite",
+      "nearby" : [
+        {
+          "type" : "check",
+          "key" : "mountain",
+          "displayName" : "Mountain"
+        },
+        {
+          "type" : "check",
+          "key" : "spa_resort",
+          "displayName" : "Spa resort"
+        },
+        {
+          "type" : "check",
+          "key" : "transport_station",
+          "displayName" : "Transport station ( Metro & Train)"
+        }
+      ],
+      "noRoomsAvailable" : 15,
+      "refund" : {
+        "hours" : "24 hrs",
+        "percentage" : 10,
+        "isPayAtHotel" : true,
+        "isRefund" : true
+      },
+      "certified" : false,
+      "city_slug" : "algeria-alger",
+      "price" : 131.44999999999999,
+      "rating" : "4 Star",
+      "address" : "address 23",
+      "exchange_price" : {
+        "USD" : 142.72999999999999,
+        "EUR" : 127.78,
+        "DZD" : 19178
+      }
+    },
+    {
+      "pin" : {
+        "location" : {
+
+        }
+      },
+      "thumbnail" : [
+        "f4ac11fe-66c9-4d98-a0b3-13d6af2eda92\/nl-asset-dev-f4ac11fe-66c9-4d98-a0b3-13d6af2eda92-1665727415915-0-51331644.2729769.png",
+        "f4ac11fe-66c9-4d98-a0b3-13d6af2eda92\/nl-asset-dev-f4ac11fe-66c9-4d98-a0b3-13d6af2eda92-1665727425544-0-92837904.73728505.png"
+      ],
+      "title" : "Beachwalk Resort ",
+      "besthotel" : false,
+      "country" : "Algeria",
+      "livemode" : true,
+      "complementary" : [
+        {
+          "type" : "check",
+          "key" : "breakfast",
+          "displayName" : "Breakfast"
+        },
+        {
+          "type" : "check",
+          "key" : "lunch",
+          "displayName" : "Lunch"
+        },
+        {
+          "type" : "check",
+          "key" : "dinner",
+          "displayName" : "Dinner"
+        }
+      ],
+      "others" : [
+        {
+          "type" : "check",
+          "key" : "couple_friendly",
+          "displayName" : "Couple friendly"
+        },
+        {
+          "type" : "check",
+          "key" : "free_cancellation_policy",
+          "displayName" : "Free cancellation policy"
+        },
+        {
+          "type" : "check",
+          "key" : "pay_at_hotel",
+          "displayName" : "Pay at hotel"
+        }
+      ],
+      "active" : true,
+      "currency" : {
+        "USD" : 6.3200000000000003,
+        "EUR" : 5.6600000000000001,
+        "DZD" : 849
+      },
+      "activestatus" : {
+        "reason" : "Hotel details verified"
+      },
+      "hotel_slug" : "beachwalk-resort",
+      "city" : "Alger",
+      "moreInfo" : {
+        "cancelPolicy" : "",
+        "rooms" : [
+          {
+            "noRoomsAvailable" : 10,
+            "thumbnail" : [
+              "f4ac11fe-66c9-4d98-a0b3-13d6af2eda92\/nl-asset-dev-f4ac11fe-66c9-4d98-a0b3-13d6af2eda92-1665727580023-0-57956152.7818398.png",
+              "f4ac11fe-66c9-4d98-a0b3-13d6af2eda92\/nl-asset-dev-f4ac11fe-66c9-4d98-a0b3-13d6af2eda92-1665727580028-1-80105978.10908164.png"
+            ],
+            "sharing" : [
+              {
+                "currency" : {
+                  "USD" : 6.3200000000000003,
+                  "EUR" : 5.6600000000000001,
+                  "DZD" : 849
+                },
+                "sharingId" : "1d4f755a-8e5e-415a-ab13-e93a1953a222",
+                "check" : true,
+                "noChildren" : 0,
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "exchange_price" : {
+                  "USD" : 6.3200000000000003,
+                  "EUR" : 5.6600000000000001,
+                  "DZD" : 849
+                },
+                "noPerson" : 1,
+                "price" : 6.3200000000000003,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "0.45",
+                  "USD" : "0.45",
+                  "DZD" : "76.41"
+                },
+                "noInfant" : 0,
+                "noExtraBed" : 0
+              },
+              {
+                "currency" : {
+                  "USD" : 6.3200000000000003,
+                  "EUR" : 5.6600000000000001,
+                  "DZD" : 849
+                },
+                "sharingId" : "d64d5151-d727-4af1-b5db-8d0961f0a978",
+                "check" : true,
+                "noChildren" : 0,
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "exchange_price" : {
+                  "USD" : 6.3200000000000003,
+                  "EUR" : 5.6600000000000001,
+                  "DZD" : 849
+                },
+                "noPerson" : 2,
+                "price" : 6.3200000000000003,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "0.45",
+                  "USD" : "0.45",
+                  "DZD" : "76.41"
+                },
+                "noInfant" : 0,
+                "noExtraBed" : 0
+              },
+              {
+                "currency" : {
+                  "USD" : 7.5800000000000001,
+                  "EUR" : 6.79,
+                  "DZD" : 1019
+                },
+                "sharingId" : "09298e67-d294-47ab-97fb-dbf3cf11ef0c",
+                "check" : true,
+                "noChildren" : 0,
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "exchange_price" : {
+                  "USD" : 7.5800000000000001,
+                  "EUR" : 6.79,
+                  "DZD" : 1019
+                },
+                "noPerson" : 3,
+                "price" : 7.5800000000000001,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "0.54",
+                  "USD" : "0.54",
+                  "DZD" : "91.71"
+                },
+                "noInfant" : 0,
+                "noExtraBed" : 0
+              }
+            ],
+            "room_type_slug" : "deluxe",
+            "category" : "Family",
+            "title" : "Deluxe",
+            "numberOfRooms" : 10,
+            "roomId" : "58fa43a5-b6c6-40af-a9f2-d4ccf20c7b6b",
+            "numberOfRoomsRegister" : 35,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "room_service",
+                "displayName" : "Room Service"
+              },
+              {
+                "type" : "check",
+                "key" : "kitchen",
+                "displayName" : "Kitchen"
+              }
+            ],
+            "threshold" : true
+          },
+          {
+            "noRoomsAvailable" : 5,
+            "thumbnail" : [
+              "a5cc2465-0dff-4ee7-ac6e-d26ce651fcff\/nl-asset-dev-a5cc2465-0dff-4ee7-ac6e-d26ce651fcff-1671278696137-0-17100680.388685822.jpeg",
+              "a5cc2465-0dff-4ee7-ac6e-d26ce651fcff\/nl-asset-dev-a5cc2465-0dff-4ee7-ac6e-d26ce651fcff-1671278696146-1-42962528.21083265.jpeg"
+            ],
+            "sharing" : [
+              {
+                "currency" : {
+                  "USD" : 15224.93,
+                  "EUR" : 13630.91,
+                  "DZD" : 2045778
+                },
+                "sharingId" : "9028ff4d-8f40-43f2-b054-bc4a3bce4b32",
+                "check" : true,
+                "noChildren" : 0,
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "exchange_price" : {
+                  "USD" : 15224.93,
+                  "EUR" : 13630.91,
+                  "DZD" : 2045778
+                },
+                "noPerson" : 1,
+                "price" : 15224.93,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "1180.89",
+                  "USD" : "1262.01",
+                  "DZD" : "184119.99"
+                },
+                "noInfant" : 0,
+                "noExtraBed" : 0
+              }
+            ],
+            "room_type_slug" : "deluxe",
+            "category" : "Couple",
+            "title" : "Deluxe",
+            "numberOfRooms" : 5,
+            "roomId" : "0dee506f-8223-42d6-9893-948af674b2dc",
+            "numberOfRoomsRegister" : 6,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "airport_shuttle",
+                "displayName" : "Airport Shuttle"
+              },
+              {
+                "type" : "check",
+                "key" : "kitchen",
+                "displayName" : "Kitchen"
+              },
+              {
+                "type" : "check",
+                "key" : "ac",
+                "displayName" : "AC"
+              }
+            ],
+            "threshold" : false
+          }
+        ],
+        "notes" : "",
+        "policies" : "<p><span style=\"color: rgb(67, 97, 168);\">Property policies<\/span><\/p>",
+        "description" : "<p><span style=\"color: rgb(67, 97, 168);\">Property Description<\/span><\/p>"
+      },
+      "bestdeal" : false,
+      "tag" : [
+        {
+          "type" : "check",
+          "key" : "apartment",
+          "displayName" : "Apartment"
+        }
+      ],
+      "amenities" : [
+        {
+          "type" : "check",
+          "key" : "room_service",
+          "displayName" : "Room Service"
+        },
+        {
+          "type" : "check",
+          "key" : "kitchen",
+          "displayName" : "Kitchen"
+        },
+        {
+          "type" : "check",
+          "key" : "airport_shuttle",
+          "displayName" : "Airport Shuttle"
+        },
+        {
+          "type" : "check",
+          "key" : "ac",
+          "displayName" : "AC"
+        }
+      ],
+      "id" : "496c9280-3959-4acd-acd8-243eb8fdb6db",
+      "roomInfo" : "Deluxe",
+      "country_slug" : "algeria",
+      "roomInfoSlug" : "deluxe",
+      "nearby" : [
+        {
+          "type" : "check",
+          "key" : "beach",
+          "displayName" : "Beach"
+        },
+        {
+          "type" : "check",
+          "key" : "mountain",
+          "displayName" : "Mountain"
+        }
+      ],
+      "noRoomsAvailable" : 15,
+      "refund" : {
+        "hours" : "24 hrs",
+        "percentage" : 10,
+        "isPayAtHotel" : true,
+        "isRefund" : true
+      },
+      "certified" : false,
+      "city_slug" : "algeria-alger",
+      "price" : 5,
+      "rating" : "3 Star",
+      "address" : "alger",
+      "exchange_price" : {
+        "USD" : 6.3200000000000003,
+        "EUR" : 5.6600000000000001,
+        "DZD" : 849
+      }
+    },
+    {
+      "pin" : {
+        "location" : {
+          "lon" : 0,
+          "lat" : 0
+        }
+      },
+      "thumbnail" : [
+        "3343e3df-24ab-4a5c-8db4-dc381b601a16\/nl-asset-dev-3343e3df-24ab-4a5c-8db4-dc381b601a16-1665730645604-0-52824657.9737695.png",
+        "3343e3df-24ab-4a5c-8db4-dc381b601a16\/nl-asset-dev-3343e3df-24ab-4a5c-8db4-dc381b601a16-1665730655679-0-16504946.351738257.png"
+      ],
+      "title" : "Parallel Shine",
+      "besthotel" : false,
+      "country" : "Algeria",
+      "livemode" : true,
+      "complementary" : [
+        {
+          "type" : "check",
+          "key" : "breakfast",
+          "displayName" : "Breakfast"
+        },
+        {
+          "type" : "check",
+          "key" : "lunch",
+          "displayName" : "Lunch"
+        }
+      ],
+      "others" : [
+        {
+          "type" : "check",
+          "key" : "couple_friendly",
+          "displayName" : "Couple friendly"
+        },
+        {
+          "type" : "check",
+          "key" : "free_cancellation_policy",
+          "displayName" : "Free cancellation policy"
+        },
+        {
+          "type" : "check",
+          "key" : "pay_at_hotel",
+          "displayName" : "Pay at hotel"
+        }
+      ],
+      "active" : true,
+      "currency" : {
+        "USD" : 2.52,
+        "EUR" : 2.2599999999999998,
+        "DZD" : 339
+      },
+      "activestatus" : {
+        "reason" : "Hotel details verified"
+      },
+      "hotel_slug" : "parallel-shine",
+      "city" : "Alger",
+      "moreInfo" : {
+        "propertyPolicies" : "<p><span style=\"color: rgb(67, 97, 168);\">PropertyPolicies: Added new discount and promotion<\/span><\/p>",
+        "cancelPolicy" : "",
+        "rooms" : [
+          {
+            "noRoomsAvailable" : 10,
+            "thumbnail" : [
+              "3343e3df-24ab-4a5c-8db4-dc381b601a16\/nl-asset-dev-3343e3df-24ab-4a5c-8db4-dc381b601a16-1665730737688-0-84285004.67183831.png",
+              "3343e3df-24ab-4a5c-8db4-dc381b601a16\/nl-asset-dev-3343e3df-24ab-4a5c-8db4-dc381b601a16-1665730746111-0-45067413.60520746.png"
+            ],
+            "sharing" : [
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "7cd35035-831a-4113-8eb1-0a7c526d2e42",
+                "check" : true,
+                "currency" : {
+                  "USD" : 2.52,
+                  "EUR" : 2.2599999999999998,
+                  "DZD" : 339
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 2.52,
+                  "EUR" : 2.2599999999999998,
+                  "DZD" : 339
+                },
+                "noPerson" : 1,
+                "extraBedPrice" : 0,
+                "price" : 2.52,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "0.20",
+                  "USD" : "0.23",
+                  "DZD" : "30.51"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              },
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "053f2a9b-63b5-4926-ae3b-7c63ce8faa84",
+                "check" : true,
+                "currency" : {
+                  "USD" : 7.5800000000000001,
+                  "EUR" : 6.79,
+                  "DZD" : 1019
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 7.5800000000000001,
+                  "EUR" : 6.79,
+                  "DZD" : 1019
+                },
+                "noPerson" : 2,
+                "extraBedPrice" : 0,
+                "price" : 7.5800000000000001,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "0.61",
+                  "USD" : "0.68",
+                  "DZD" : "91.71"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              },
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "4d1eb837-6398-4dd6-bdaf-19bac64873e1",
+                "check" : true,
+                "currency" : {
+                  "USD" : 7.5800000000000001,
+                  "EUR" : 6.79,
+                  "DZD" : 1019
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 7.5800000000000001,
+                  "EUR" : 6.79,
+                  "DZD" : 1019
+                },
+                "noPerson" : 3,
+                "extraBedPrice" : 0,
+                "price" : 7.5800000000000001,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "0.61",
+                  "USD" : "0.68",
+                  "DZD" : "91.71"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              }
+            ],
+            "room_type_slug" : "full_sea_view_one_bedroom_suite",
+            "category" : "Family",
+            "title" : "Full Sea View One Bedroom Suite",
+            "numberOfRooms" : 10,
+            "roomId" : "f430adc3-9cad-44d7-874c-8f027d646e98",
+            "numberOfRoomsRegister" : 20,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "room_service",
+                "displayName" : "Room Service"
+              },
+              {
+                "type" : "check",
+                "key" : "free_wi_fi",
+                "displayName" : "Free Wi-fi"
+              }
+            ],
+            "threshold" : true
+          },
+          {
+            "noRoomsAvailable" : 5,
+            "thumbnail" : [
+              "a5cc2465-0dff-4ee7-ac6e-d26ce651fcff\/nl-asset-dev-a5cc2465-0dff-4ee7-ac6e-d26ce651fcff-1671278850373-0-78041533.63138488.jpeg",
+              "a5cc2465-0dff-4ee7-ac6e-d26ce651fcff\/nl-asset-dev-a5cc2465-0dff-4ee7-ac6e-d26ce651fcff-1671278850377-1-13384878.096632773.jpeg"
+            ],
+            "sharing" : [
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "622a9eb6-b52f-4f8c-bdac-1a1426a7aadd",
+                "check" : true,
+                "currency" : {
+                  "USD" : 29.010000000000002,
+                  "EUR" : 25.969999999999999,
+                  "DZD" : 3898
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 29.010000000000002,
+                  "EUR" : 25.969999999999999,
+                  "DZD" : 3898
+                },
+                "noPerson" : 1,
+                "extraBedPrice" : 0,
+                "price" : 29.010000000000002,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "2.34",
+                  "USD" : "2.61",
+                  "DZD" : "350.81"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              },
+              {
+                "noExtraBed" : 0,
+                "sharingId" : "aa1d3cb6-1ece-45d8-9cce-5dbd722eed05",
+                "check" : true,
+                "currency" : {
+                  "USD" : 58.020000000000003,
+                  "EUR" : 51.939999999999998,
+                  "DZD" : 7796
+                },
+                "noBed" : 1,
+                "livemode" : true,
+                "tax" : 9,
+                "noChildren" : 0,
+                "exchange_price" : {
+                  "USD" : 58.020000000000003,
+                  "EUR" : 51.939999999999998,
+                  "DZD" : 7796
+                },
+                "noPerson" : 2,
+                "extraBedPrice" : 0,
+                "price" : 58.020000000000003,
+                "selectcurrency" : "DZD",
+                "noAdult" : 1,
+                "taxcurrency" : {
+                  "EUR" : "4.67",
+                  "USD" : "5.22",
+                  "DZD" : "701.62"
+                },
+                "noInfant" : 0,
+                "noExtraSharingBed" : 0
+              }
+            ],
+            "room_type_slug" : "suite",
+            "category" : "Couple",
+            "title" : "Suite",
+            "numberOfRooms" : 5,
+            "roomId" : "8e0d74ec-0475-4289-91c4-18252d82f8ab",
+            "numberOfRoomsRegister" : 5,
+            "amenities" : [
+              {
+                "type" : "check",
+                "key" : "free_wi_fi",
+                "displayName" : "Free Wi-fi"
+              },
+              {
+                "type" : "check",
+                "key" : "bath_tub",
+                "displayName" : "Bath tub"
+              },
+              {
+                "type" : "check",
+                "key" : "power_backup",
+                "displayName" : "Power Backup"
+              }
+            ],
+            "threshold" : false
+          }
+        ],
+        "notes" : "<p><span style=\"color: rgb(67, 97, 168);\">PropertyPolicies: Added new discount and promotion<\/span><\/p>",
+        "policies" : "<p><span style=\"color: rgb(67, 97, 168);\">Property policies<\/span><\/p>",
+        "description" : "<p><span style=\"color: rgb(67, 97, 168);\">Property Description<\/span><\/p>"
+      },
+      "bestdeal" : false,
+      "tag" : [
+        {
+          "type" : "check",
+          "key" : "hotel",
+          "displayName" : "Hotel"
+        }
+      ],
+      "amenities" : [
+        {
+          "type" : "check",
+          "key" : "room_service",
+          "displayName" : "Room Service"
+        },
+        {
+          "type" : "check",
+          "key" : "free_wi_fi",
+          "displayName" : "Free Wi-fi"
+        },
+        {
+          "type" : "check",
+          "key" : "bath_tub",
+          "displayName" : "Bath tub"
+        },
+        {
+          "type" : "check",
+          "key" : "power_backup",
+          "displayName" : "Power Backup"
+        }
+      ],
+      "id" : "6f001596-4b06-4cb4-a178-c05fd9537d03",
+      "roomInfo" : "Full Sea View One Bedroom Suite",
+      "country_slug" : "algeria",
+      "roomInfoSlug" : "full_sea_view_one_bedroom_suite",
+      "nearby" : [
+        {
+          "type" : "check",
+          "key" : "beach",
+          "displayName" : "Beach"
+        },
+        {
+          "type" : "check",
+          "key" : "safex",
+          "displayName" : "SAFEX"
+        }
+      ],
+      "noRoomsAvailable" : 15,
+      "refund" : {
+        "hours" : "24 hrs",
+        "percentage" : 10,
+        "isPayAtHotel" : true,
+        "isRefund" : true
+      },
+      "certified" : false,
+      "city_slug" : "algeria-alger",
+      "price" : 2.52,
+      "rating" : "3 Star",
+      "address" : "alger",
+      "exchange_price" : {
+        "USD" : 2.52,
+        "EUR" : 2.2599999999999998,
+        "DZD" : 339
+      }
+    }
+  ]
+}

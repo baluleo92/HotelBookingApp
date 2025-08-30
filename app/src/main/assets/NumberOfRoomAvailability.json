@@ -1,0 +1,114 @@
+{
+  "items" : [
+    {
+      "noRoomsAvailable" : 8,
+      "hotel_id" : "03a56034-3d54-4b86-8c29-18f258e0d5a9",
+      "room_type_id" : "22d8794a-96a1-42fb-817a-8f1fb0c6a1cc"
+    },
+    {
+      "noRoomsAvailable" : 13,
+      "hotel_id" : "03a56034-3d54-4b86-8c29-18f258e0d5a9",
+      "room_type_id" : "421487f7-2227-4d2d-ad10-a52319dd992a"
+    },
+    {
+      "noRoomsAvailable" : 8,
+      "hotel_id" : "03a56034-3d54-4b86-8c29-18f258e0d5a9",
+      "room_type_id" : "8c36bc56-e21b-4c3c-acc3-30bf613c0d84"
+    },
+    {
+      "noRoomsAvailable" : 15,
+      "hotel_id" : "08ba843e-aa75-4728-aaf7-9f4092d22eca",
+      "room_type_id" : "70bc433d-e49d-4173-853a-6936dba26d4b"
+    },
+    {
+      "noRoomsAvailable" : 20,
+      "hotel_id" : "08ba843e-aa75-4728-aaf7-9f4092d22eca",
+      "room_type_id" : "b42923f8-ca12-4b57-8737-597ca062f6ad"
+    },
+    {
+      "noRoomsAvailable" : 15,
+      "hotel_id" : "08ba843e-aa75-4728-aaf7-9f4092d22eca",
+      "room_type_id" : "dbeac32d-2d8b-4ea6-86a2-6cb6d48f0a31"
+    },
+    {
+      "noRoomsAvailable" : 17,
+      "hotel_id" : "2b6caac8-8118-414d-930e-195d34179afc",
+      "room_type_id" : "9fa2932e-1f18-4ba8-b5dc-7b14b0294f38"
+    },
+    {
+      "noRoomsAvailable" : 10,
+      "hotel_id" : "2b6caac8-8118-414d-930e-195d34179afc",
+      "room_type_id" : "a06f7a70-9049-4676-99cd-fef428277a28"
+    },
+    {
+      "noRoomsAvailable" : 5,
+      "hotel_id" : "496c9280-3959-4acd-acd8-243eb8fdb6db",
+      "room_type_id" : "0dee506f-8223-42d6-9893-948af674b2dc"
+    },
+    {
+      "noRoomsAvailable" : 10,
+      "hotel_id" : "496c9280-3959-4acd-acd8-243eb8fdb6db",
+      "room_type_id" : "58fa43a5-b6c6-40af-a9f2-d4ccf20c7b6b"
+    },
+    {
+      "noRoomsAvailable" : 10,
+      "hotel_id" : "55dfe267-b763-4fe8-bf55-4e3faaa9dbca",
+      "room_type_id" : "2c374257-d6c2-4623-805f-58c21ec67e3e"
+    },
+    {
+      "noRoomsAvailable" : 5,
+      "hotel_id" : "55dfe267-b763-4fe8-bf55-4e3faaa9dbca",
+      "room_type_id" : "41e63604-f551-4110-b596-72fccdf74b28"
+    },
+    {
+      "noRoomsAvailable" : 10,
+      "hotel_id" : "55dfe267-b763-4fe8-bf55-4e3faaa9dbca",
+      "room_type_id" : "a72a5041-85e1-427c-9ca3-380ced463b32"
+    },
+    {
+      "noRoomsAvailable" : 15,
+      "hotel_id" : "55dfe267-b763-4fe8-bf55-4e3faaa9dbca",
+      "room_type_id" : "bc952e83-4f71-40e0-a301-074903c9ddac"
+    },
+    {
+      "noRoomsAvailable" : 5,
+      "hotel_id" : "6f001596-4b06-4cb4-a178-c05fd9537d03",
+      "room_type_id" : "8e0d74ec-0475-4289-91c4-18252d82f8ab"
+    },
+    {
+      "noRoomsAvailable" : 10,
+      "hotel_id" : "6f001596-4b06-4cb4-a178-c05fd9537d03",
+      "room_type_id" : "f430adc3-9cad-44d7-874c-8f027d646e98"
+    },
+    {
+      "noRoomsAvailable" : 100,
+      "hotel_id" : "ca46895c-6815-4f25-8159-2621053f79d0",
+      "room_type_id" : "6e565d20-91b4-48fa-bb16-2366e044778c"
+    },
+    {
+      "noRoomsAvailable" : 15,
+      "hotel_id" : "de5b97b7-0f32-40c9-bc27-c10b3ef9e083",
+      "room_type_id" : "6b9e38ab-a138-443a-9b08-0459ad534f54"
+    },
+    {
+      "noRoomsAvailable" : 70,
+      "hotel_id" : "f2af107c-4fee-445b-b187-3aeeae65494e",
+      "room_type_id" : "4435a282-3bd2-4565-b89d-6c3ba9ee72d7"
+    },
+    {
+      "noRoomsAvailable" : 8,
+      "hotel_id" : "f2af107c-4fee-445b-b187-3aeeae65494e",
+      "room_type_id" : "6026c3f2-e784-48b7-af4d-e6d2379ad8aa"
+    },
+    {
+      "noRoomsAvailable" : 10,
+      "hotel_id" : "fd94b0b6-b92b-4f19-ad57-a13482f3ddef",
+      "room_type_id" : "abd21d53-b60e-48f8-8b92-c255e2319b9d"
+    },
+    {
+      "noRoomsAvailable" : 5,
+      "hotel_id" : "fd94b0b6-b92b-4f19-ad57-a13482f3ddef",
+      "room_type_id" : "cd60eed8-047f-4cee-a0a9-de43b6b65158"
+    }
+  ]
+}
