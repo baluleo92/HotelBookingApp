@@ -9,6 +9,7 @@ data class Hotel(
     val thumbnail: List<String>,
     val rating: String,
     val roomInfo: String,
-    var roomsAvailable: Map<String, Int>? = null // roomTypeId to number mapping
+    val totalRoomsAvailable: Int? = null,
+    val roomsAvailable: Map<String, Int>? // Becomes non-null only after loading
 )
 

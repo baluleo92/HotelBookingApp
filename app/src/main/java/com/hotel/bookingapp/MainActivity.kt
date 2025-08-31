@@ -41,7 +41,10 @@ class MainActivity : ComponentActivity() {
                     .fillMaxSize()
                     .padding(WindowInsets.systemBars.asPaddingValues())
             ) {
-                HotelListScreen(viewModel)
+                HotelBookingAppTheme {
+                    HotelListScreen(viewModel)
+                }
+
             }
         }
     }
