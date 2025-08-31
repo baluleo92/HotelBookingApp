@@ -58,16 +58,16 @@ dependencies {
 
     // --- Add these dependencies for full Compose app architecture ---
     // ViewModel (with Compose integration)
-    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.9.3")
-    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.3")
+    implementation(libs.androidx.lifecycle.viewmodel.compose)
+    implementation(libs.androidx.lifecycle.viewmodel.ktx)
 
     // Kotlin Coroutines (for Flow, delay, etc.)
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2")
+    implementation(libs.kotlinx.coroutines.core)
+    implementation(libs.kotlinx.coroutines.android)
 
     // Gson (for JSON parsing from assets)
-    implementation("com.google.code.gson:gson:2.10.1")
-
+    implementation(libs.gson)
+    implementation(libs.accompanist.flowlayout)
     // Coil (for image loading in Compose)
-    implementation("io.coil-kt:coil-compose:2.7.0")
+    implementation(libs.coil.compose)
 }
